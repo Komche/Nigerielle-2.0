@@ -13,34 +13,66 @@
               <div class="row">
                 <div class="col-md-6 col-md-push-6 item-caption">
                   <h2 class="h1 text-weight-light">
-                      Welcome to <span class="text-primary">Flexor</span>
+                      Bienvenue <span class="text-primary">Nigerielles</span>
                     </h2>
-                  <h4>
-                      Super flexible responsive theme with a modest design touch.
-                    </h4>
-                  <p>Perfect for your App, Web service, company or portfolio! Magna tincidunt sociis ac integer amet non. Rhoncus augue? Tempor porttitor sed, aliquet phasellus a, nisi nunc aliquet nec rhoncus enim porttitor ultrices lacus tristique?</p>
-                  <a href="https://bootstrapmade.com" class="btn btn-more btn-lg i-right">Buy Now <i class="fa fa-plus"></i></a>
+        
+                  <p> Nigerielles a pour mission d’accompagner les femmes nigériennes, qu’elles soient porteuses de projets ou déjà chefs d’entreprises, dans l’atteinte de leurs objectifs professionnels. Nous les amènerons à gagner en confiance, en assurance et en leadership ainsi qu’à élaborer des stratégies gagnantes pour leurs entreprises, en leur créant un cadre propice de rencontres et d’échanges selon leurs centres d’intérêt. Nous souhaitons contribuer à une plus grande mixité au niveau économique et sociétal pour faire face aux enjeux de compétitivité et de performance, en permettant aux femmes d’y prendre la place qui leur revient.
+                      Notre volonté est de permettre à toutes les femmes nigériennes d’oser. Oser entreprendre sa vie, oser affronter les autres, oser s’affronter soi-même, oser s’affirmer, avoir confiance en soi, en son influence et en ses capacités. Oser la Différence.
+                    </p>
+        
+                  <a href="https://bootstrapmade.com" class="btn btn-more btn-lg i-right">Achetez maintenant <i class="fa fa-plus"></i></a>
                 </div>
                 <div class="col-md-6 col-md-pull-6 hidden-xs">
-                  <img src="public/img/slides/slide1.png" alt="Slide 1" class="center-block img-responsive">
+                  <img src="public/img/slide.JPG" alt="Slide 1" class="center-block img-responsive">
                 </div>
               </div>
             </div>
             <!--Slide 2-->
             <div class="item">
               <div class="row">
+                <div class="col-md-6 col-md-push-6 item-caption">
+                  <h2 class="h1 text-weight-light">
+                      Bienvenue <span class="text-primary">Nigerielles</span>
+                    </h2>
+                  <p>Encourager la création d’entreprise par les femmes, vulgariser l’entreprenariat féminin et Promouvoir l’image de la Femme Chef d’Entreprise nigérienne au Niger et à l’étranger</p>
+                  <a href="https://bootstrapmade.com" class="btn btn-more btn-lg i-right">Achetez maintenant  <i class="fa fa-plus"></i></a>
+                </div>
+                <div class="col-md-6 col-md-pull-6 hidden-xs">
+                  <img src="public/img/femme.JPG" alt="Slide 1" class="center-block img-responsive">
+                </div>
+              </div>
+            </div>
+            <!--Slide 3-->
+            <div class="item">
+              <div class="row">
+                <div class="col-md-6 col-md-push-6 item-caption">
+                  <h2 class="h1 text-weight-light">
+                      Bienvenue <span class="text-primary">Nigerielles</span>
+                    </h2>
+
+                  <p> Créer un réseau de femmes entrepreneures, qui permettra l’échange de bonnes pratiques, d’expériences, et mutualiser les moyens et les compétences</p>
+                  <a href="https://bootstrapmade.com" class="btn btn-more btn-lg i-right">Achetez maintenant  <i class="fa fa-plus"></i></a>
+                </div>
+                <div class="col-md-6 col-md-pull-6 hidden-xs">
+                  <img src="public/img/photos.jpg" alt="Slide 1" class="center-block img-responsive">
+                </div>
+              </div>
+            </div>
+            <!--Slide 4-->
+            <div class="item">
+              <div class="row">
                 <div class="col-md-6 text-right-md item-caption">
                   <h2 class="h1 text-weight-light">
-                      <span class="text-primary">Flexor</span> Bootstrap Theme
+                      <span class="text-primary">Nigerielles</span> Bootstrap Theme
                     </h2>
-                  <h4>
-                      High quality, responsive theme!
-                    </h4>
-                  <p>Perfect for your App, Web service, company or portfolio! Magna tincidunt sociis ac integer amet non. Rhoncus augue? Tempor porttitor sed, aliquet phasellus a, nisi nunc aliquet nec rhoncus enim porttitor ultrices lacus tristique?</p>
-                  <a href="https://bootstrapmade.com" class="btn btn-more btn-lg"><i class="fa fa-plus"></i> Learn More</a>
+          
+                  <p>Initier et mettre en œuvre tous projets ou actions visant le développement des 
+                     compétences professionnelles des membres, la mise à disposition à l’attention des membres de tout dispositif offrant une assistance technique, une formation et information et de toutes actions contribuant au développement de leurs business
+                  </p>
+                  <a href="https://bootstrapmade.com" class="btn btn-more btn-lg"><i class="fa fa-plus"></i> Achetez maintenant </a>
                 </div>
                 <div class="col-md-6 hidden-xs">
-                  <img src="public/img/slides/slide2.png" alt="Slide 2" class="center-block img-responsive">
+                  <img src="public/img/slide2.JPG" alt="Slide 2" class="center-block img-responsive">
                 </div>
               </div>
             </div>
@@ -56,7 +88,7 @@
     <div class="mission text-center block block-pd-sm block-bg-noise">
       <div class="container">
         <h2 class="text-shadow-white">
-            We are a full digital agency based in London. We are experienced professionals in building websites, applications, mobile solutions.
+        Créer un réseau de femmes entrepreneures, qui permettra l’échange de bonnes pratiques, d’expériences, et mutualiser les moyens et les compétences.
             <a href="about.html" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>
           </h2>
       </div>
@@ -86,7 +118,7 @@
           </div>
           <div class="item">
             <a href="#" class="overlay-wrapper">
-                <img src="public/img/showcase/project2.png" alt="Project 2 image" class="img-responsive underlay">
+                <img src="public/img/logo.jpg" alt="Project 2 image" class="img-responsive underlay">
                 <span class="overlay">
                   <span class="overlay-content"> <span class="h4">Project 2</span> </span>
                 </span>

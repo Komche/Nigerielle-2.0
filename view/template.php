@@ -120,25 +120,23 @@
                         <div class="col-md-8">
                             <!--navbar-branding/logo - hidden image tag & site name so things like Facebook to pick up, actual logo set via CSS for flexibility -->
                             <a class="navbar-brand" href="index.html" title="Home">
-                                <h1 class="hidden">
-                                    <img src="img/logo.png" alt="Flexor Logo">
-                                    Flexor
+                                <h1 class="">
+                                    <img src="public/img/logo.jpg" alt="Flexor Logo">
+                                    
                                 </h1>
                             </a>
                             <div class="navbar-slogan">
-                                Responsive HTML Theme
-                                <br> By BootstrapMade.com
+                                Site de Nigerielle
+                                <br> Nigerielle.ne
                             </div>
                         </div>
                         <!--header rightside-->
                         <div class="col-md-4">
                             <!--user menu-->
+                            
                             <ul class="list-inline user-menu pull-right">
-                                <li class="user-button"><a class="btn btn-primary btn-hh-trigger" role="button" data-toggle="collapse" data-target=".header-hidden">Open</a></li>
-                            </ul>
-                            <ul class="list-inline user-menu pull-right">
-                                <li class="user-register"><i class="fa fa-edit text-primary "></i> <a href="register.html" class="text-uppercase">Register</a></li>
-                                <li class="user-login"><i class="fa fa-sign-in text-primary"></i> <a href="login.html" class="text-uppercase">Login</a></li>
+                                <li class="user-register"><i class="fa fa-edit text-primary "></i> <a href="register.html" class="text-uppercase">Enregistrer</a></li>
+                                <li class="user-login"><i class="fa fa-sign-in text-primary"></i> <a href="login.html" class="text-uppercase">Se connecter</a></li>
                             </ul>
                         </div>
                     </div>
@@ -162,22 +160,25 @@
                             <li class="icon-link">
                                 <a href="index.html"><i class="fa fa-home"></i></a>
                             </li>
+                            <li><a href="#">Accueil</a></li>
                             <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages<b class="caret"></b></a>
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Prèsentation<b class="caret"></b></a>
                                 <!-- Dropdown Menu -->
                                 <ul class="dropdown-menu">
-                                    <li class="dropdown-header">Flexor Version Pages</li>
-                                    <li><a href="elements.html" tabindex="-1" class="menu-item">Elements</a></li>
-                                    <li><a href="about.html" tabindex="-1" class="menu-item">About / Inner Page</a></li>
-                                    <li><a href="login.html" tabindex="-1" class="menu-item">Login</a></li>
-                                    <li><a href="register.html" tabindex="-1" class="menu-item">Sign-Up</a></li>
-                                    <li class="dropdown-footer">Dropdown footer</li>
+                                    <li class="dropdown-header">Missions</li>
+                                    <li><a href="elements.html" tabindex="-1" class="menu-item">Objectifs</a></li>
+                                    <li><a href="about.html" tabindex="-1" class="menu-item">Valeurs</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#">Menu Link</a></li>
-                            <li class="dropdown dropdown-mm">
+                            <li><a href="#">Activités</a></li>
+                            <li><a href="#">Programmes</a></li>
+                            <li><a href="#">Actualités</a></li>
+                            <li><a href="#">Galerie</a></li>
+                            <li><a href="#">Contact</a></li>
+
+                         <!--<li class="dropdown dropdown-mm">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mega Menu<b class="caret"></b></a>
-                                <!-- Dropdown Menu -->
+                                
                                 <ul class="dropdown-menu dropdown-menu-mm dropdown-menu-persist">
                                     <li class="row">
                                         <ul class="col-md-6">
@@ -194,6 +195,8 @@
                                             <li><a href="#">Quality Assurance</a></li>
                                         </ul>
                                     </li>
+                                    
+                                
                                     <li class="dropdown-footer">
                                         <div class="row">
                                             <div class="col-md-7">Like the lite version? <strong>Get the extended version of Flexor.</strong></div>
@@ -203,7 +206,7 @@
                                         </div>
                                     </li>
                                 </ul>
-                            </li>
+                            </li>-->
                         </ul>
                     </div>
                     <!--/.navbar-collapse -->
@@ -221,42 +224,45 @@
 
                     <div class="col-md-3">
                         <address>
-                            <strong>Flexor Bootstrap Theme Inc</strong>
+                            <strong>Nigerielles:</strong><br>
+                            Association des femmes nigeriennes entrepreneures et porteuses de projet pour le développement économique du Niger
                             <br>
-                            <i class="fa fa-map-pin fa-fw text-primary"></i> Sunshine House, Sunville. SUN12
+                            <address>
+                            <strong>Adresse</strong><br>
+                            <i class="fa fa-map-pin fa-fw text-primary"></i> Niamey-Niger
                             <br>
-                            <i class="fa fa-phone fa-fw text-primary"></i> 019223 8092344
+                            <i class="fa fa-phone fa-fw text-primary"></i> + 227 90 95 63 64/ +227 939à6364
                             <br>
-                            <i class="fa fa-envelope-o fa-fw text-primary"></i> info@flexorinc.com
+                            <i class="fa fa-envelope-o fa-fw text-primary"></i> contact@nigerielle.ne
                             <br>
                         </address>
                     </div>
 
                     <div class="col-md-6">
                         <h4 class="text-uppercase">
-                            Contact Us
+                            contactez-nous
                         </h4>
                         <div class="form">
                             <div id="sendmessage">Your message has been sent. Thank you!</div>
                             <div id="errormessage"></div>
                             <form action="" method="post" role="form" class="contactForm">
                                 <div class="form-group">
-                                    <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                                    <input type="text" name="nom" class="form-control" id="nom" placeholder="votre nom" data-rule="minlen:4" data-msg="entrer votre nom" />
                                     <div class="validation"></div>
                                 </div>
                                 <div class="form-group">
-                                    <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+                                    <input type="email" class="form-control" name="email" id="email" placeholder="votre adresse email" data-rule="email" data-msg="entrer votre adresse mail" />
                                     <div class="validation"></div>
                                 </div>
                                 <div class="form-group">
-                                    <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                                    <input type="text" class="form-control" name="objet" id="objet" placeholder="objet" data-rule="minlen:4" data-msg="entrer l'objet" />
                                     <div class="validation"></div>
                                 </div>
                                 <div class="form-group">
                                     <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
                                     <div class="validation"></div>
                                 </div>
-                                <div class="text-center"><button type="submit">Send Message</button></div>
+                                <div class="text-center"><button type="submit">envoyer Message</button></div>
                             </form>
                         </div>
                     </div>
