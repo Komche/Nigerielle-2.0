@@ -15,11 +15,8 @@
                   <h2 class="h1 text-weight-light">
                       Bienvenue <span class="text-primary">Nigerielles</span>
                     </h2>
-        
-                  <p> Nigerielles a pour mission d’accompagner les femmes nigériennes, qu’elles soient porteuses de projets ou déjà chefs d’entreprises, dans l’atteinte de leurs objectifs professionnels. Nous les amènerons à gagner en confiance, en assurance et en leadership ainsi qu’à élaborer des stratégies gagnantes pour leurs entreprises, en leur créant un cadre propice de rencontres et d’échanges selon leurs centres d’intérêt. Nous souhaitons contribuer à une plus grande mixité au niveau économique et sociétal pour faire face aux enjeux de compétitivité et de performance, en permettant aux femmes d’y prendre la place qui leur revient.
-                      Notre volonté est de permettre à toutes les femmes nigériennes d’oser. Oser entreprendre sa vie, oser affronter les autres, oser s’affronter soi-même, oser s’affirmer, avoir confiance en soi, en son influence et en ses capacités. Oser la Différence.
+                  <p> Association des femmes entrepreneurs et porteuses de projet.
                     </p>
-        
                   <a href="https://bootstrapmade.com" class="btn btn-more btn-lg i-right">Achetez maintenant <i class="fa fa-plus"></i></a>
                 </div>
                 <div class="col-md-6 col-md-pull-6 hidden-xs">
@@ -34,7 +31,7 @@
                   <h2 class="h1 text-weight-light">
                       Bienvenue <span class="text-primary">Nigerielles</span>
                     </h2>
-                  <p>Encourager la création d’entreprise par les femmes, vulgariser l’entreprenariat féminin et Promouvoir l’image de la Femme Chef d’Entreprise nigérienne au Niger et à l’étranger</p>
+                  <p>Encourager la création d’entreprise par les femmes , vulgariser  l’entreprenariat féminin et Promouvoir l’image de la Femme Chef d’Entreprise nigérienne au Niger et à l’étranger</p>
                   <a href="https://bootstrapmade.com" class="btn btn-more btn-lg i-right">Achetez maintenant  <i class="fa fa-plus"></i></a>
                 </div>
                 <div class="col-md-6 col-md-pull-6 hidden-xs">
@@ -49,7 +46,6 @@
                   <h2 class="h1 text-weight-light">
                       Bienvenue <span class="text-primary">Nigerielles</span>
                     </h2>
-
                   <p> Créer un réseau de femmes entrepreneures, qui permettra l’échange de bonnes pratiques, d’expériences, et mutualiser les moyens et les compétences</p>
                   <a href="https://bootstrapmade.com" class="btn btn-more btn-lg i-right">Achetez maintenant  <i class="fa fa-plus"></i></a>
                 </div>
@@ -65,7 +61,6 @@
                   <h2 class="h1 text-weight-light">
                       <span class="text-primary">Nigerielles</span> Bootstrap Theme
                     </h2>
-          
                   <p>Initier et mettre en œuvre tous projets ou actions visant le développement des 
                      compétences professionnelles des membres, la mise à disposition à l’attention des membres de tout dispositif offrant une assistance technique, une formation et information et de toutes actions contribuant au développement de leurs business
                   </p>
@@ -81,7 +76,6 @@
       </div>
     </div>
   </div>
-
   <!-- ======== @Region: #content ======== -->
   <div id="content">
     <!-- Mission Statement -->
@@ -97,177 +91,139 @@
     <div class="showcase block block-border-bottom-grey">
       <div class="container">
         <h2 class="block-title">
-            Showcase
+            Actualités
           </h2>
         <p>This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a
           sit amet mauris.</p>
         <div class="item-carousel" data-toggle="owlcarousel" data-owlcarousel-settings='{"items":4, "pagination":false, "navigation":true, "itemsScaleUp":true}'>
           <div class="item">
             <a href="#" class="overlay-wrapper">
-                <img src="public/img/showcase/project1.png" alt="Project 1 image" class="img-responsive underlay">
+                <img src="public/img/n10.JPG" alt="Project 1 image" class="img-responsive underlay">
                 <span class="overlay">
-                  <span class="overlay-content"> <span class="h4">Project 1</span> </span>
+                  <span class="overlay-content"> <span class="h4">Actualités 1</span> </span>
                 </span>
               </a>
             <div class="item-details bg-noise">
               <h4 class="item-title">
-                  <a href="#">Project 1</a>
+                  <a href="#">Actualités 1</a>
                 </h4>
-              <a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>
+             <!-- <a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>-->
             </div>
           </div>
           <div class="item">
             <a href="#" class="overlay-wrapper">
-                <img src="public/img/logo.jpg" alt="Project 2 image" class="img-responsive underlay">
+                <img src="public/img/n14.jpg" alt="Project 2 image" class="img-responsive underlay">
                 <span class="overlay">
-                  <span class="overlay-content"> <span class="h4">Project 2</span> </span>
+                  <span class="overlay-content"> <span class="h4">Actualités 2</span> </span>
                 </span>
               </a>
             <div class="item-details bg-noise">
               <h4 class="item-title">
-                  <a href="#">Project 2</a>
+                  <a href="#">Actualités 2</a>
                 </h4>
-              <a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>
+             <!-- <a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>-->
             </div>
           </div>
           <div class="item">
             <a href="#" class="overlay-wrapper">
-                <img src="public/img/showcase/project3.png" alt="Project 3 image" class="img-responsive underlay">
+                <img src="public/img/n10.JPG" alt="Project 3 image" class="img-responsive underlay">
                 <span class="overlay">
-                  <span class="overlay-content"> <span class="h4">Project 3</span> </span>
+                  <span class="overlay-content"> <span class="h4">Actualités 3</span> </span>
                 </span>
               </a>
             <div class="item-details bg-noise">
               <h4 class="item-title">
-                  <a href="#">Project 3</a>
+                  <a href="#">Actualités 3</a>
                 </h4>
-              <a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>
+              <!--<a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>-->
             </div>
           </div>
           <div class="item">
             <a href="#" class="overlay-wrapper">
-                <img src="public/img/showcase/project4.png" alt="Project 4 image" class="img-responsive underlay">
+                <img src="public/img/slide3.JPG" alt="Project 4 image" class="img-responsive underlay">
                 <span class="overlay">
-                  <span class="overlay-content"> <span class="h4">Project 4</span> </span>
+                  <span class="overlay-content"> <span class="h4">Actualités 4</span> </span>
                 </span>
               </a>
             <div class="item-details bg-noise">
               <h4 class="item-title">
-                  <a href="#">Project 4</a>
+                  <a href="#">Actualités 4</a>
                 </h4>
-              <a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>
+             <!-- <a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>-->
             </div>
           </div>
           <div class="item">
             <a href="#" class="overlay-wrapper">
-                <img src="public/img/showcase/project5.png" alt="Project 5 image" class="img-responsive underlay">
+                <img src="public/img/slide.JPG" alt="Project 5 image" class="img-responsive underlay">
                 <span class="overlay">
-                  <span class="overlay-content"> <span class="h4">Project 5</span> </span>
+                  <span class="overlay-content"> <span class="h4">Actualités 5</span> </span>
                 </span>
               </a>
             <div class="item-details bg-noise">
               <h4 class="item-title">
-                  <a href="#">Project 5</a>
+                  <a href="#">Actualités 5</a>
                 </h4>
-              <a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>
+              
+             <!-- <a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>-->
             </div>
           </div>
           <div class="item">
             <a href="#" class="overlay-wrapper">
-                <img src="public/img/showcase/project6.png" alt="Project 6 image" class="img-responsive underlay">
+                <img src="public/img/n14.jpg" alt="Project 6 image" class="img-responsive underlay">
                 <span class="overlay">
-                  <span class="overlay-content"> <span class="h4">Project 6</span> </span>
+                  <span class="overlay-content"> <span class="h4">Actualités 6</span> </span>
                 </span>
               </a>
             <div class="item-details bg-noise">
               <h4 class="item-title">
-                  <a href="#">Project 6</a>
+                  <a href="#">Actualités 6</a>
                 </h4>
-              <a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>
+             <!-- <a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>-->
             </div>
           </div>
           <div class="item">
             <a href="#" class="overlay-wrapper">
-                <img src="public/img/showcase/project7.png" alt="Project 7 image" class="img-responsive underlay">
+                <img src="public/img/n14.jpg" alt="Project 7 image" class="img-responsive underlay">
                 <span class="overlay">
-                  <span class="overlay-content"> <span class="h4">Project 7</span> </span>
+                  <span class="overlay-content"> <span class="h4">Actualités 7</span> </span>
                 </span>
               </a>
             <div class="item-details bg-noise">
               <h4 class="item-title">
-                  <a href="#">Project 7</a>
+                  <a href="#">Actualités 7</a>
                 </h4>
-              <a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>
+             <!-- <a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>-->
             </div>
           </div>
           <div class="item">
             <a href="#" class="overlay-wrapper">
-                <img src="public/img/showcase/project8.png" alt="Project 8 image" class="img-responsive underlay">
+                <img src="public/img/slide4.JPG" alt="Project 8 image" class="img-responsive underlay">
                 <span class="overlay">
-                  <span class="overlay-content"> <span class="h4">Project 8</span> </span>
+                  <span class="overlay-content"> <span class="h4">Actualités 8</span> </span>
                 </span>
               </a>
             <div class="item-details bg-noise">
               <h4 class="item-title">
-                  <a href="#">Project 8</a>
+                  <a href="#">Actualités 8</a>
                 </h4>
-              <a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>
+             <!-- <a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>-->
             </div>
           </div>
           <div class="item">
             <a href="#" class="overlay-wrapper">
-                <img src="public/img/showcase/project9.png" alt="Project 9 image" class="img-responsive underlay">
+                <img src="public/img/slide5.JPG" alt="Project 9 image" class="img-responsive underlay">
                 <span class="overlay">
-                  <span class="overlay-content"> <span class="h4">Project 9</span> </span>
+                  <span class="overlay-content"> <span class="h4">Actualités 9</span> </span>
                 </span>
               </a>
             <div class="item-details bg-noise">
               <h4 class="item-title">
-                  <a href="#">Project 9</a>
+                  <a href="#">Actualités 9</a>
                 </h4>
-              <a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>
+             <!-- <a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>-->
             </div>
           </div>
-          <div class="item">
-            <a href="#" class="overlay-wrapper">
-                <img src="public/img/showcase/project10.png" alt="Project 10 image" class="img-responsive underlay">
-                <span class="overlay">
-                  <span class="overlay-content"> <span class="h4">Project 10</span> </span>
-                </span>
-              </a>
-            <div class="item-details bg-noise">
-              <h4 class="item-title">
-                  <a href="#">Project 10</a>
-                </h4>
-              <a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>
-            </div>
-          </div>
-          <div class="item">
-            <a href="#" class="overlay-wrapper">
-                <img src="public/img/showcase/project11.png" alt="Project 11 image" class="img-responsive underlay">
-                <span class="overlay">
-                  <span class="overlay-content"> <span class="h4">Project 11</span> </span>
-                </span>
-              </a>
-            <div class="item-details bg-noise">
-              <h4 class="item-title">
-                  <a href="#">Project 11</a>
-                </h4>
-              <a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>
-            </div>
-          </div>
-          <div class="item">
-            <a href="#" class="overlay-wrapper">
-                <img src="public/img/showcase/project12.png" alt="Project 12 image" class="img-responsive underlay">
-                <span class="overlay">
-                  <span class="overlay-content"> <span class="h4">Project 12</span> </span>
-                </span>
-              </a>
-            <div class="item-details bg-noise">
-              <h4 class="item-title">
-                  <a href="#">Project 12</a>
-                </h4>
-              <a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>
+
             </div>
           </div>
         </div>
@@ -277,44 +233,44 @@
     <div class="services block block-bg-gradient block-border-bottom">
       <div class="container">
         <h2 class="block-title">
-            Our Services
+            Nos services
           </h2>
         <div class="row">
           <div class="col-md-4 text-center text-dark">
             <span class="fa-stack fa-5x">
               <i class="fa fa-circle fa-stack-2x text-primary"></i>
               <i style="color: black" class="fa  fa-group fa-stack-1x fa-inverse"></i> </span>
-            <h4 class="text-weight-strong">
+            <!--<h4 class="text-weight-strong">
                 User Experience / Information Architecture
               </h4>
             <p>Rhoncus adipiscing, magna integer cursus augue eros lacus porttitor magna. Dictumst, odio! Elementum tortor sociis in eu dis dictumst pulvinar lorem nec aliquam a nascetur.</p>
             <p>
               <a href="#" class="btn btn-more i-right">Learn More <i class="fa fa-angle-right"></i></a>
-            </p>
+            </p>-->
           </div>
           <div class="col-md-4 text-center">
             <span class="fa-stack fa-5x">
               <i class="fa fa-circle fa-stack-2x text-primary"></i>
               <i style="color: black" class="fa fa-pencil fa-stack-1x fa-inverse"></i> </span>
-            <h4 class="text-weight-strong">
+            <!--<h4 class="text-weight-strong">
                 User Interface Design / User Interface Theming
               </h4>
             <p>Rhoncus adipiscing, magna integer cursus augue eros lacus porttitor magna. Dictumst, odio! Elementum tortor sociis in eu dis dictumst pulvinar lorem nec aliquam a nascetur.</p>
             <p>
               <a href="#" class="btn btn-more i-right">Learn More <i class="fa fa-angle-right"></i></a>
-            </p>
+            </p>-->
           </div>
           <div class="col-md-4 text-center">
             <span class="fa-stack fa-5x">
               <i class="fa fa-circle fa-stack-2x text-primary"></i>
               <i style="color: black" class="fa fa-cogs fa-stack-1x fa-inverse"></i> </span>
-            <h4 class="text-weight-strong">
+            <!--<h4 class="text-weight-strong">
                 Code &amp; Development / Implementation Support
               </h4>
             <p>Rhoncus adipiscing, magna integer cursus augue eros lacus porttitor magna. Dictumst, odio! Elementum tortor sociis in eu dis dictumst pulvinar lorem nec aliquam a nascetur.</p>
             <p>
               <a href="#" class="btn btn-more i-right">Learn More <i class="fa fa-angle-right"></i></a>
-            </p>
+            </p>-->
           </div>
         </div>
       </div>
@@ -498,41 +454,37 @@ Usage: data-block-bg-img="IMAGE-URL" to apply a background image clearly via jQu
     <div class="container">
       <div class="row">
         <h3 class="col-md-4">
-            Some of our Clients
+            Partenaires
           </h3>
         <div class="col-md-8">
           <div class="row">
             <!--Client logos should be within a 120px wide by 60px height image canvas-->
             <div class="col-xs-6 col-md-2">
               <a href="https://bootstrapmade.com" title="Client 1">
-                  <img src="public/img/clients/client1.png" alt="Client 1 logo" class="img-responsive">
+                  <img src="public/img/sonibank.jpeg" height="1000px" width="150px"  alt="" class="img-responsive">
                 </a>
             </div>
             <div class="col-xs-6 col-md-2">
               <a href="https://bootstrapmade.com" title="Client 2">
-                  <img src="public/img/clients/client2.png" alt="Client 2 logo" class="img-responsive">
+                  <img src="public/img/seen.jpeg" alt="Client 2 logo" class="img-responsive">
                 </a>
             </div>
             <div class="col-xs-6 col-md-2">
               <a href="https://bootstrapmade.com" title="Client 3">
-                  <img src="public/img/clients/client3.png" alt="Client 3 logo" class="img-responsive">
+                  <img src="public/img/orano.png" alt="Client 3 logo" class="img-responsive">
                 </a>
             </div>
             <div class="col-xs-6 col-md-2">
               <a href="https://bootstrapmade.com" title="Client 4">
-                  <img src="public/img/clients/client4.png" alt="Client 4 logo" class="img-responsive">
+                  <img src="public/img/haut.jpg" alt="Client 4 logo" class="img-responsive">
                 </a>
             </div>
             <div class="col-xs-6 col-md-2">
               <a href="https://bootstrapmade.com" title="Client 5">
-                  <img src="public/img/clients/client5.png" alt="Client 5 logo" class="img-responsive">
+                  <img src="public/img/banque.png" alt="Client 5 logo" class="img-responsive">
                 </a>
             </div>
-            <div class="col-xs-6 col-md-2">
-              <a href="https://bootstrapmade.com" title="Client 6">
-                  <img src="public/img/clients/client6.png" alt="Client 6 logo" class="img-responsive">
-                </a>
-            </div>
+           
           </div>
         </div>
       </div>

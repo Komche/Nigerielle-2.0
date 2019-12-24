@@ -57,7 +57,6 @@
 <body class="page-index has-hero">
     <!--Change the background class to alter background image, options are: benches, boots, buildings, city, metro -->
     <div id="background-wrapper" class="buildings" data-stellar-background-ratio="0.1">
-
         <!-- ======== @Region: #navigation ======== -->
         <div id="navigation" class="wrapper">
             <!--Hidden Header Region-->
@@ -121,19 +120,14 @@
                             <!--navbar-branding/logo - hidden image tag & site name so things like Facebook to pick up, actual logo set via CSS for flexibility -->
                             <a class="navbar-brand" href="index.html" title="Home">
                                 <h1 class="">
-                                    <img src="public/img/logo.jpg" alt="Flexor Logo">
-                                    
+                                    <img src="public/img/logo.jpg" width="200px" height="150px" alt="Flexor Logo"> 
                                 </h1>
                             </a>
-                            <div class="navbar-slogan">
-                                Site de Nigerielle
-                                <br> Nigerielle.ne
-                            </div>
+                            
                         </div>
                         <!--header rightside-->
                         <div class="col-md-4">
                             <!--user menu-->
-                            
                             <ul class="list-inline user-menu pull-right">
                                 <li class="user-register"><i class="fa fa-edit text-primary "></i> <a href="register.html" class="text-uppercase">Enregistrer</a></li>
                                 <li class="user-login"><i class="fa fa-sign-in text-primary"></i> <a href="login.html" class="text-uppercase">Se connecter</a></li>
@@ -214,7 +208,6 @@
             </div>
         </div>
     </div>
-
     <?= $content ?>
         <!-- ======== @Region: #footer ======== -->
         <footer id="footer" class="block block-bg-grey-dark" data-block-bg-img="img/bg_footer-map.png" data-stellar-background-ratio="0.4">
@@ -237,7 +230,6 @@
                             <br>
                         </address>
                     </div>
-
                     <div class="col-md-6">
                         <h4 class="text-uppercase">
                             contactez-nous
@@ -266,27 +258,23 @@
                             </form>
                         </div>
                     </div>
-
                     <div class="col-md-3">
                         <h4 class="text-uppercase">
-                            Follow Us On:
+                          rejoingnez-nous:
                         </h4>
                         <!--social media icons-->
                         <div class="social-media social-media-stacked">
                             <!--@todo: replace with company social media details-->
                             <a href="#"><i class="fa fa-twitter fa-fw"></i> Twitter</a>
                             <a href="#"><i class="fa fa-facebook fa-fw"></i> Facebook</a>
-                            <a href="#"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
                             <a href="#"><i class="fa fa-google-plus fa-fw"></i> Google+</a>
                         </div>
                     </div>
-
                 </div>
-
                 <div class="row subfooter">
                     <!--@todo: replace with company copyright details-->
                     <div class="col-md-7">
-                        <p>Copyright © Flexor Theme</p>
+                        <strong>Nigerielle</strong>
                         <div class="credits">
                             <!--
               All the links in the footer should remain intact.
@@ -294,7 +282,7 @@
               Licensing information: https://bootstrapmade.com/license/
               Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Flexor
             -->
-                            Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+                            Developpée par <a href="https://bootstrapmade.com/">NOVATECH</a>
                         </div>
                     </div>
                     <div class="col-md-5">
@@ -328,7 +316,6 @@
 
         <!--Contactform script -->
         <script src="public/contactform/contactform.js"></script>
-
 </body>
 
 </html>
