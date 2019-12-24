@@ -118,30 +118,42 @@
                     <div class="row">
                         <div class="col-md-8">
                             <!--navbar-branding/logo - hidden image tag & site name so things like Facebook to pick up, actual logo set via CSS for flexibility -->
-                            <a class="navbar-brand" href="index.html" title="Home">
+                            <a style="position: relative; bottom: 30px" class="navbar-brand" href="index.html" title="Home">
                                 <h1 class="">
-                                    <img src="public/img/logo.jpg" width="200px" height="150px" alt="Flexor Logo"> 
+                                    <img style="height: 60px"  src="public/img/logo.jpg" alt="Flexor Logo">  
                                 </h1>
                             </a>
-                            
+                            <div class="navbar-slogan">
+                                Entrprendre au feminin
+                            </div>
+                            <div class="navbar-slogan">
+                            <i class="fa fa-phone fa-fw text-primary"></i> + 227 90 95 63 64<br>
+                            <i class="fa fa-phone fa-fw text-primary"></i> +227 93 95 63 64
+                                                                            
+                            </div>
+                            <div class="navbar-slogan">
+                            <i class="fa fa-envelope-o fa-fw text-primary"></i>contact@nigerielle.ne
+                            <br>
+                            </div>
                         </div>
                         <!--header rightside-->
                         <div class="col-md-4">
                             <!--user menu-->
-                            <ul class="list-inline user-menu pull-right">
+
+                           <!-- <ul class="list-inline user-menu pull-right">
                                 <li class="user-register"><i class="fa fa-edit text-primary "></i> <a href="register.html" class="text-uppercase">Enregistrer</a></li>
                                 <li class="user-login"><i class="fa fa-sign-in text-primary"></i> <a href="login.html" class="text-uppercase">Se connecter</a></li>
-                            </ul>
+                            </ul>-->
                         </div>
                     </div>
                 </div>
             </div>
             <div class="container">
-                <div class="navbar navbar-default">
+                <div style="border: 1px solid black; height: 50px" class="navbar navbar-default">
                     <!--mobile collapse menu button-->
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
                     <!--social media icons-->
-                    <div class="navbar-text social-media social-media-inline pull-right">
+                    <div class="navbar-text social-media social-media-inline pull-right nav-centrer">
                         <!--@todo: replace with company social media details-->
                         <a href="#"><i class="fa fa-twitter"></i></a>
                         <a href="#"><i class="fa fa-facebook"></i></a>
@@ -150,7 +162,7 @@
                     </div>
                     <!--everything within this div is collapsed on mobile-->
                     <div class="navbar-collapse collapse">
-                        <ul class="nav navbar-nav" id="main-menu">
+                        <ul class="nav navbar-nav nav-centrer" id="main-menu">
                             <li class="icon-link">
                                 <a href="index.html"><i class="fa fa-home"></i></a>
                             </li>
