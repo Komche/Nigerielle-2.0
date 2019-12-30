@@ -17,7 +17,7 @@
                     </h2>
                   <p> Association des femmes entrepreneurs et porteuses de projet.
                     </p>
-                  <a href="https://bootstrapmade.com" class="btn btn-more btn-lg i-right">Achetez maintenant <i class="fa fa-plus"></i></a>
+  
                 </div>
                 <div class="col-md-6 col-md-pull-6 hidden-xs">
                   <img src="public/img/slide.JPG" alt="Slide 1" class="center-block img-responsive">
@@ -32,7 +32,6 @@
                       Bienvenue <span class="text-primary">Nigerielles</span>
                     </h2>
                   <p>Encourager la création d’entreprise par les femmes , vulgariser  l’entreprenariat féminin et Promouvoir l’image de la Femme Chef d’Entreprise nigérienne au Niger et à l’étranger</p>
-                  <a href="https://bootstrapmade.com" class="btn btn-more btn-lg i-right">Achetez maintenant  <i class="fa fa-plus"></i></a>
                 </div>
                 <div class="col-md-6 col-md-pull-6 hidden-xs">
                   <img src="public/img/femme.JPG" alt="Slide 1" class="center-block img-responsive">
@@ -42,32 +41,17 @@
             <!--Slide 3-->
             <div class="item">
               <div class="row">
-                <div class="col-md-6 col-md-push-6 item-caption">
-                  <h2 class="h1 text-weight-light">
-                      Bienvenue <span class="text-primary">Nigerielles</span>
-                    </h2>
-                  <p> Créer un réseau de femmes entrepreneures, qui permettra l’échange de bonnes pratiques, d’expériences, et mutualiser les moyens et les compétences</p>
-                  <a href="https://bootstrapmade.com" class="btn btn-more btn-lg i-right">Achetez maintenant  <i class="fa fa-plus"></i></a>
-                </div>
-                <div class="col-md-6 col-md-pull-6 hidden-xs">
-                  <img src="public/img/photos.jpg" alt="Slide 1" class="center-block img-responsive">
-                </div>
-              </div>
-            </div>
-            <!--Slide 4-->
-            <div class="item">
-              <div class="row">
                 <div class="col-md-6 text-right-md item-caption">
                   <h2 class="h1 text-weight-light">
                       <span class="text-primary">Nigerielles</span> Bootstrap Theme
                     </h2>
-                  <p>Initier et mettre en œuvre tous projets ou actions visant le développement des 
-                     compétences professionnelles des membres, la mise à disposition à l’attention des membres de tout dispositif offrant une assistance technique, une formation et information et de toutes actions contribuant au développement de leurs business
+                  <p>
+                  Association des femmes nigeriennes entrepreneures et porteuses de projet pour le développement économique du Niger
                   </p>
-                  <a href="https://bootstrapmade.com" class="btn btn-more btn-lg"><i class="fa fa-plus"></i> Achetez maintenant </a>
+                  
                 </div>
                 <div class="col-md-6 hidden-xs">
-                  <img src="public/img/slide2.JPG" alt="Slide 2" class="center-block img-responsive">
+                  <img src="public/img/slide5.JPG" alt="Slide 2" class="center-block img-responsive">
                 </div>
               </div>
             </div>
