@@ -77,8 +77,7 @@
         <h2 class="block-title">
             Actualités
           </h2>
-        <p>This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a
-          sit amet mauris.</p>
+
         <div class="item-carousel" data-toggle="owlcarousel" data-owlcarousel-settings='{"items":4, "pagination":false, "navigation":true, "itemsScaleUp":true}'>
           <div class="item">
             <a href="#" class="overlay-wrapper">
@@ -262,88 +261,49 @@
     <!-- Pricing -->
     <div class="block-contained">
       <h2 class="block-title">
-          Our Plans
+          GALERIE PHOTOS
         </h2>
       <div class="row">
         <div class="col-md-3">
           <div class="panel panel-default panel-pricing text-center">
             <div class="panel-heading">
-              <h4 class="panel-title">
-                  Flex<em>Starter</em>
+            <h4 class="panel-title">
+                  galerie4
                 </h4>
             </div>
-            <div class="panel-pricing-price">$ <span class="digits">19.95</span> /mo.</div>
-            <div class="panel-body">
-              <ul class="list-dotted">
-                <li>3 User Accounts</li>
-                <li>3 Private Projects</li>
-                <li>Umlimited Projects</li>
-                <li>5GB of space</li>
-              </ul>
-              <a href="#" class="btn btn-primary btn-sm">Choose Plan</a>
-
-            </div>
+            <img class="img-gallery" src="public/img/slide7.JPG" width="400px" height="400px">
+           
           </div>
         </div>
         <div class="col-md-3">
           <div class="panel panel-default panel-pricing panel-pricing-highlighted text-center">
             <div class="panel-heading">
-              <h4 class="panel-title">
-                  Team<em>Starter</em>
+            <h4 class="panel-title">
+                  galerie2
                 </h4>
             </div>
-            <div class="panel-pricing-price">$ <span class="digits">49.95</span> /mo.</div>
-            <div class="panel-body">
-              <ul class="list-dotted">
-                <li>50 User Accounts</li>
-                <li>50 Private Projects</li>
-                <li>Umlimited Projects</li>
-                <li>Unlimited space</li>
-              </ul>
-              <a href="#" class="btn btn-primary btn-sm">Choose Plan</a>
-
-            </div>
+            <img class="img-gallery" src="public/img/n10.JPG" width="400px" height="400px">
           </div>
         </div>
         <div class="col-md-3 text-center">
           <div class="panel panel-default panel-pricing panel-pricing-highlighted text-center">
             <div class="panel-heading">
               <h4 class="panel-title">
-                  Enterprise
-                  <span class="panel-pricing-popular"><i class="fa fa-thumbs-up"></i> Popular</span>
+                galerie3
+                  
                 </h4>
             </div>
-            <div class="panel-pricing-price">$ <span class="digits">199.95</span> /mo.</div>
-            <div class="panel-body">
-              <ul class="list-dotted">
-                <li>100 User Accounts</li>
-                <li>100 Private Projects</li>
-                <li>Umlimited Projects</li>
-                <li>Unlimited space</li>
-              </ul>
-              <a href="#" class="btn btn-primary btn-sm">Choose Plan</a>
-
-            </div>
+            <img class="img-gallery" src="public/img/n5.JPG" width="400px" height="400px">
           </div>
         </div>
         <div class="col-md-3 text-center">
           <div class="panel panel-default panel-pricing text-center">
             <div class="panel-heading">
               <h4 class="panel-title">
-                  Corporate
+                  galerie4
                 </h4>
             </div>
-            <div class="panel-pricing-price">$ <span class="digits">299.95</span> /mo.</div>
-            <div class="panel-body">
-              <ul class="list-dotted">
-                <li>1000 User Accounts</li>
-                <li>1000 Private Projects</li>
-                <li>Umlimited Projects</li>
-                <li>Unlimited space</li>
-              </ul>
-              <a href="#" class="btn btn-primary btn-sm">Choose Plan</a>
-
-            </div>
+            <img class="img-gallery" src="public/img/n6.JPG" width="400px" height="400px">
           </div>
         </div>
       </div>
@@ -353,85 +313,13 @@ Background image callout with CSS overlay
 Usage: data-block-bg-img="IMAGE-URL" to apply a background image clearly via jQuery .block-bg-overlay = overlays the background image, colour is inherited from block-bg-* classes .block-bg-overlay-NUMBER = determines opcacity value of overlay from 1-9 (default is 5) ie. .block-bg-overlay-2 or .block-bg-overlay-6
 -->
     <div class="block block-pd-sm block-bg-grey-dark block-bg-overlay block-bg-overlay-6 text-center" data-block-bg-img="https://picjumbo.imgix.net/HNCK1088.jpg?q=40&amp;w=1650&amp;sharp=30" data-stellar-background-ratio="0.3">
-      <h2 class="h-xlg h1 m-a-0">
-          <span data-counter-up>100,000,0</span>s
-        </h2>
       <h3 class="h-lg m-t-0 m-b-lg">
-          Of Happy Customers!
+          Nigerielles!<br> <br>
+          Association des femmes entrepreneurs et porteuses de projet au Niger
         </h3>
-      <p>
-        <a href="#" class="btn btn-more btn-lg i-right">Join them today! <i class="fa fa-angle-right"></i></a>
-      </p>
+     
     </div>
-    <!--Customer testimonial & Latest Blog posts-->
-    <div class="testimonials block-contained">
-      <div class="row">
-        <!--Customer testimonial-->
-        <div class="col-md-6 m-b-lg">
-          <h3 class="block-title">
-              Testimonials
-            </h3>
-          <blockquote>
-            <p>Our productivity &amp; sales are up! Customers are happy &amp; we couldn't be happier with this product!</p>
-            <img src="public/img/misc/charles-quote.png" alt="Charles Spencer Chaplin">
-            <small>
-                <strong>Charles Chaplin</strong>
-                <br>
-                British comic actor
-              </small>
-          </blockquote>
-        </div>
-        <!--Latest Blog posts-->
-        <div class="col-md-6 blog-roll">
-          <h3 class="block-title">
-              Latest From Our Blog
-            </h3>
-          <!-- Blog post 1-->
-          <div class="media">
-            <div class="media-left hidden-xs">
-              <!-- Date desktop -->
-              <div class="date-wrapper"> <span class="date-m">Feb</span> <span class="date-d">01</span> </div>
-            </div>
-            <div class="media-body">
-              <h4 class="media-heading">
-                  <a href="#" class="text-weight-strong">amet urna integer urna enim, sit arcu pid in nec?</a>
-                </h4>
-              <!-- Meta details mobile -->
-              <ul class="list-inline meta text-muted visible-xs">
-                <li><i class="fa fa-calendar"></i> <span class="visible-md">Created:</span> Fri 1st Feb 2013</li>
-                <li><i class="fa fa-user"></i> <a href="#">Joe</a></li>
-              </ul>
-              <p>
-                Ut <strong>commodo ullamcorper risus nec</strong> mattis. Morbi tincidunt posuere turpis eu laoreet. Nulla facilisi. Aenean at massa leo. Vestibulum in varius arcu.
-                <a href="#">Read more <i class="fa fa-angle-right"></i></a>
-              </p>
-            </div>
-          </div>
-          <!-- Blog post 2 -->
-          <div class="media">
-            <div class="media-left hidden-xs">
-              <!-- Date desktop -->
-              <div class="date-wrapper"> <span class="date-m">Jan</span> <span class="date-d">17</span> </div>
-            </div>
-            <div class="media-body">
-              <h4 class="media-heading">
-                  <a href="#" class="text-weight-strong">a nec in sed hac ultrices cursus</a>
-                </h4>
-              <!-- Meta details mobile -->
-              <ul class="list-inline meta text-muted visible-xs">
-                <li><i class="fa fa-calendar"></i> <span class="visible-md">Created:</span> Thu 17th Jan 2013</li>
-                <li><i class="fa fa-user"></i> <a href="#">Joe</a></li>
-              </ul>
-              <p>
-                Nam risus magna, fringilla sit amet blandit viverra, dignissim eget est. Aenean at massa leo. Vestibulum in varius arcu.
-                <a href="#">Read more <i class="fa fa-angle-right"></i></a>
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+
   <!-- /content -->
   <!-- Call out block -->
   <div class="block block-pd-sm block-bg-primary">
@@ -474,6 +362,13 @@ Usage: data-block-bg-img="IMAGE-URL" to apply a background image clearly via jQu
       </div>
     </div>
   </div>
+  <h1 class="text-center"> Retrouvez-nous <h1><br>
+                </h3>
+                <div class="row">
+                    <div style="background-color: #741b47; padding: 20px" class="col-lg-12">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3878.8807384598886!2d2.0901718497753445!3d13.542906805703378!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11da9f741f03c03f%3A0xb7df0e3b0a2a5aac!2sNigerielles!5e0!3m2!1sfr!2sne!4v1568832175108!5m2!1sfr!2sne" style="width: 100%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                    </div>
+                </div>
   <?php
     $content = ob_get_clean();
     require('template.php');

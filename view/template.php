@@ -120,6 +120,7 @@
                                     <img style="height: 60px"  src="public/img/logo.jpg" alt="Flexor Logo">  
                                 </h1>
                             </a>
+                            
                             <div class="navbar-slogan">
                                 Entrprendre au feminin
                             </div>
@@ -296,9 +297,9 @@
                     </div>
                     <div class="col-md-5">
                         <ul class="list-inline pull-right">
-                            <li><a href="#">Terms</a></li>
-                            <li><a href="#">Privacy</a></li>
-                            <li><a href="#">Contact Us</a></li>
+                            <li><a href="#">Entreprendre</a></li>
+                            <li><a href="#">Au</a></li>
+                            <li><a href="#">Feminin</a></li>
                         </ul>
                     </div>
                 </div>

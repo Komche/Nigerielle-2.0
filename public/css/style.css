@@ -1950,6 +1950,8 @@ a.btn-hh-trigger.target-open:after {
   display: none;
   height: 32px;
   padding-top: 10px;
+  padding-right: 10px;
+  
 }
 
 @media (min-width: 768px) {
