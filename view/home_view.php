@@ -48,7 +48,6 @@
                   <p>
                   Association des femmes nigeriennes entrepreneures et porteuses de projet pour le développement économique du Niger
                   </p>
-                  
                 </div>
                 <div class="col-md-6 hidden-xs">
                   <img src="public/img/slide5.JPG" alt="Slide 2" class="center-block img-responsive">
@@ -321,8 +320,15 @@ Usage: data-block-bg-img="IMAGE-URL" to apply a background image clearly via jQu
     </div>
 
   <!-- /content -->
-  <!-- Call out block -->
-  <div class="block block-pd-sm block-bg-primary">
+  <h1 class="text-center">Retrouvez-nous <h1><br>
+                </h3>
+                <div class="row">
+                    <div style="background-color: #741b47; padding: 20px" class="col-lg-12">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3878.8807384598886!2d2.0901718497753445!3d13.542906805703378!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11da9f741f03c03f%3A0xb7df0e3b0a2a5aac!2sNigerielles!5e0!3m2!1sfr!2sne!4v1568832175108!5m2!1sfr!2sne" style="width: 100%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                    </div>
+                </div>
+   <!-- Call out block -->
+   <div class="block block-pd-sm block-bg-primary">
     <div class="container">
       <div class="row">
         <h3 class="col-md-4">
@@ -354,21 +360,13 @@ Usage: data-block-bg-img="IMAGE-URL" to apply a background image clearly via jQu
             <div class="col-xs-6 col-md-2">
               <a href="https://bootstrapmade.com" title="Client 5">
                   <img src="public/img/banque.png" alt="Client 5 logo" class="img-responsive">
-                </a>
+              </a>
             </div>
-           
           </div>
         </div>
       </div>
     </div>
   </div>
-  <h1 class="text-center"> Retrouvez-nous <h1><br>
-                </h3>
-                <div class="row">
-                    <div style="background-color: #741b47; padding: 20px" class="col-lg-12">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3878.8807384598886!2d2.0901718497753445!3d13.542906805703378!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11da9f741f03c03f%3A0xb7df0e3b0a2a5aac!2sNigerielles!5e0!3m2!1sfr!2sne!4v1568832175108!5m2!1sfr!2sne" style="width: 100%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-                    </div>
-                </div>
   <?php
     $content = ob_get_clean();
     require('template.php');

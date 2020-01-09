@@ -50,7 +50,6 @@
     Author URL: https://bootstrapmade.com
   ======================================================= -->
 </head>
-
 <body class="page-index has-hero">
     <!--Change the background class to alter background image, options are: benches, boots, buildings, city, metro -->
     <div id="background-wrapper" class="buildings" data-stellar-background-ratio="0.1">
@@ -137,7 +136,6 @@
                         <!--header rightside-->
                         <div class="col-md-4">
                             <!--user menu-->
-
                            <!-- <ul class="list-inline user-menu pull-right">
                                 <li class="user-register"><i class="fa fa-edit text-primary "></i> <a href="register.html" class="text-uppercase">Enregistrer</a></li>
                                 <li class="user-login"><i class="fa fa-sign-in text-primary"></i> <a href="login.html" class="text-uppercase">Se connecter</a></li>
@@ -164,22 +162,31 @@
                             <li class="icon-link">
                                 <a href="index.html"><i class="fa fa-home"></i></a>
                             </li>
-                            <li><a href="#">Accueil</a></li>
+                            <li><a href="index.php?action=home">Accueil</a></li>
                             <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Prèsentation<b class="caret"></b></a>
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Qui-sommes-nous ?<b class="caret"></b></a>
                                 <!-- Dropdown Menu -->
                                 <ul class="dropdown-menu">
-                                    <li class="dropdown-header">Missions</li>
-                                    <li><a href="elements.html" tabindex="-1" class="menu-item">Objectifs</a></li>
+                                <li><a href="about.html" tabindex="-1" class="menu-item">Prèsentations</a></li>
+                                    <li class="dropdown-header"><a href="index.php?action=mission">Missions</a> </li>
+                                    <li><a href="index.php?action=mission" tabindex="-1" class="menu-item">Objectifs</a></li>
                                     <li><a href="about.html" tabindex="-1" class="menu-item">Valeurs</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#">Activités</a></li>
-                            <li><a href="#">Programmes</a></li>
-                            <li><a href="#">Actualités</a></li>
+                            <li class="nav-item">
+                    
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Programme<b class="caret"></b></a>
+                                <!-- Dropdown Menu -->
+                                <ul class="dropdown-menu">
+                                <li class="dropdown-header"><a href="index1.php?action=Hanane">Hanane</a> </li>
+                                
+    
+                                </ul>
+                            </li>
+                            <li><a href="index.php? action=activite">Activités</a></li>
                             <li><a href="#">Galerie</a></li>
                             <li><a href="#">Contact</a></li>
-
                          <!--<li class="dropdown dropdown-mm">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mega Menu<b class="caret"></b></a>
                                 
@@ -199,8 +206,6 @@
                                             <li><a href="#">Quality Assurance</a></li>
                                         </ul>
                                     </li>
-                                    
-                                
                                     <li class="dropdown-footer">
                                         <div class="row">
                                             <div class="col-md-7">Like the lite version? <strong>Get the extended version of Flexor.</strong></div>
@@ -222,9 +227,7 @@
         <!-- ======== @Region: #footer ======== -->
         <footer id="footer" class="block block-bg-grey-dark" data-block-bg-img="img/bg_footer-map.png" data-stellar-background-ratio="0.4">
             <div class="container">
-
                 <div class="row" id="contact">
-
                     <div class="col-md-3">
                         <address>
                             <strong>Nigerielles:</strong><br>
@@ -234,7 +237,7 @@
                             <strong>Adresse</strong><br>
                             <i class="fa fa-map-pin fa-fw text-primary"></i> Niamey-Niger
                             <br>
-                            <i class="fa fa-phone fa-fw text-primary"></i> + 227 90 95 63 64/ +227 939à6364
+                            <i class="fa fa-phone fa-fw text-primary"></i> + 227 90 95 63 64/ +227 93956364
                             <br>
                             <i class="fa fa-envelope-o fa-fw text-primary"></i> contact@nigerielle.ne
                             <br>
@@ -245,7 +248,7 @@
                             contactez-nous
                         </h4>
                         <div class="form">
-                            <div id="sendmessage">Your message has been sent. Thank you!</div>
+                            <div id="sendmessage">votre message a été envoyé. Merci!</div>
                             <div id="errormessage"></div>
                             <form action="" method="post" role="form" class="contactForm">
                                 <div class="form-group">
