@@ -205,7 +205,6 @@
              <!-- <a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>-->
             </div>
           </div>
-
             </div>
           </div>
         </div>

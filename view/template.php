@@ -41,6 +41,7 @@
     <link href="public/lib/owlcarousel/owl.transitions.min.css" rel="stylesheet">
     <!-- Main Stylesheet File -->
     <link href="public/css/style.css" rel="stylesheet">
+    
     <!--Your custom colour override - predefined colours are: colour-blue.css, colour-green.css, colour-lavander.css, orange is default-->
     <link href="#" id="colour-scheme" rel="stylesheet">
     <!-- =======================================================
@@ -184,9 +185,9 @@
     
                                 </ul>
                             </li>
-                            <li><a href="index.php? action=activite">Activités</a></li>
-                            <li><a href="#">Galerie</a></li>
-                            <li><a href="#">Contact</a></li>
+                            <li><a href="index2.php?action=home">Actualite</a></li>
+                            <li><a href="index3.php?action=home">Galerie</a></li>
+                            <li><a href="index4.php?action=home">Contact</a></li>
                          <!--<li class="dropdown dropdown-mm">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mega Menu<b class="caret"></b></a>
                                 
