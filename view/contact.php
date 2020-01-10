@@ -14,12 +14,10 @@
       </div>
   </div>
    <!-- ======== @Region: #footer ======== -->
-
             <div class="container">
                 <div class="row" id="contact">
                     <div class="col-md-3">
                         <address>
-                            
                             <address>
                             <strong>Adresse</strong><br>
                             <i class="fa fa-map-pin fa-fw text-primary"></i> Niamey-Niger
