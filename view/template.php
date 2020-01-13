@@ -170,8 +170,8 @@
                                 <ul class="dropdown-menu">
                                 <li><a href="about.html" tabindex="-1" class="menu-item">Prèsentations</a></li>
                                     <li class="dropdown-header"><a href="index.php?action=mission">Missions</a> </li>
-                                    <li><a href="index.php?action=mission" tabindex="-1" class="menu-item">Objectifs</a></li>
-                                    <li><a href="about.html" tabindex="-1" class="menu-item">Valeurs</a></li>
+                                    <li><a href="index.php?action=objectif" tabindex="-1" class="menu-item">Objectifs</a></li>
+                                    <li><a href="index.php?action=valeurs" tabindex="-1" class="menu-item">Valeurs</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item">
@@ -224,7 +224,7 @@
             </div>
         </div>
     </div>
-    <?= $content ?>
+    <?php echo $content ?>
         <!-- ======== @Region: #footer ======== -->
         <footer id="footer" class="block block-bg-grey-dark" data-block-bg-img="img/bg_footer-map.png" data-stellar-background-ratio="0.4">
             <div class="container">
