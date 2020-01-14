@@ -11,6 +11,9 @@ if (!empty($_GET['action'])) {
     }elseif ($action=='valeurs') {
         include_once('view/valeurs_view.php');
     }
+    elseif ($action=='engagement') {
+        include_once('view/engagement_view.php');
+    }
 }else {
     include_once('view/home_view.php');
 }

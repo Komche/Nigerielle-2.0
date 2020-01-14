@@ -172,6 +172,7 @@
                                     <li class="dropdown-header"><a href="index.php?action=mission">Missions</a> </li>
                                     <li><a href="index.php?action=objectif" tabindex="-1" class="menu-item">Objectifs</a></li>
                                     <li><a href="index.php?action=valeurs" tabindex="-1" class="menu-item">Valeurs</a></li>
+                                    <li><a href="index.php?action=engagement" tabindex="-1" class="menu-item">engagement</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item">

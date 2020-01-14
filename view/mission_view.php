@@ -2,7 +2,6 @@
     $title = "Notre missions";
     ob_start();
 ?>
-
  <!-- ======== @Region: #content ======== -->
  <div id="content">
     <div class="container" id="about">
