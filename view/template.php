@@ -161,9 +161,9 @@
                     <div class="navbar-collapse collapse">
                         <ul class="nav navbar-nav nav-centrer" id="main-menu">
                             <li class="icon-link">
-                                <a href="index.html"><i class="fa fa-home"></i></a>
+                                <a href="index.php?action=home"><i class="fa fa-home"></i></a>
                             </li>
-                            <li><a href="index.php?action=home">Accueil</a></li>
+                            <li><a href="index.php?action=activite">Activités</a></li>
                             <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Qui-sommes-nous ?<b class="caret"></b></a>
                                 <!-- Dropdown Menu -->

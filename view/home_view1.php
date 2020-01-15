@@ -21,7 +21,6 @@
       <div class="container">
         <h2 class="text-shadow-white">
         Créer un réseau de femmes entrepreneures, qui permettra l’échange de bonnes pratiques, d’expériences, et mutualiser les moyens et les compétences.
-          
           </h2>
       </div>
     </div>
@@ -31,7 +30,6 @@
         <h2 class="block-title">
             Actualités
           </h2>
-
         <div class="item-carousel" data-toggle="owlcarousel" data-owlcarousel-settings='{"items":4, "pagination":false, "navigation":true, "itemsScaleUp":true}'>
           <div class="item">
             <a href="#" class="overlay-wrapper">
@@ -42,7 +40,7 @@
               </a>
             <div class="item-details bg-noise">
               <h4 class="item-title">
-                  <a href="#">Actualités 1</a>
+                 <a href="#">Actualités 1</a>
                 </h4>
              <!-- <a href="#" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>-->
             </div>
@@ -163,7 +161,6 @@
       </div>
     </div>
     <!-- Services -->
-    
     <!--
 Background image callout with CSS overlay
 Usage: data-block-bg-img="IMAGE-URL" to apply a background image clearly via jQuery .block-bg-overlay = overlays the background image, colour is inherited from block-bg-* classes .block-bg-overlay-NUMBER = determines opcacity value of overlay from 1-9 (default is 5) ie. .block-bg-overlay-2 or .block-bg-overlay-6
