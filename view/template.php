@@ -188,7 +188,7 @@
                             </li>
                             <li><a href="index2.php?action=home">Actualite</a></li>
                             <li><a href="index3.php?action=home">Galerie</a></li>
-                            <li><a href="index4.php?action=home">Contact</a></li>
+                            <li><a href="index.php?action=contact">Contact</a></li>
                          <!--<li class="dropdown dropdown-mm">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mega Menu<b class="caret"></b></a>
                                 

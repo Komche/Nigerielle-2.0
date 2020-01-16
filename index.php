@@ -12,9 +12,10 @@ if (!empty($_GET['action'])) {
         include_once('view/valeurs_view.php');
     }elseif ($action=='activite') {
         include_once('view/activite_view.php');
-    }
-    elseif ($action=='engagement') {
+    }elseif ($action=='engagement') {
         include_once('view/engagement_view.php');
+    }elseif ($action=='contact') {
+        include_once('view/contact_view.php');
     }
 }else {
     include_once('view/home_view.php');
