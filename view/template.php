@@ -123,7 +123,7 @@
                             </a>
 
                             <div class="navbar-slogan">
-                                Entreprendre au feminin
+                                <h6>Entreprendre au feminin</h6>
                             </div>
 
                         </div>
@@ -131,13 +131,12 @@
                         <div class="col-md-6">
                             <div class="pull-right">
                                 <div class="navbar-slogan">
-                                    <i class="fa fa-phone fa-fw text-primary"></i> + 227 90 95 63 64<br>
+                                    <i class="fa fa-phone fa-fw text-primary"></i> +227 90 95 63 64<br>
                                     <i class="fa fa-phone fa-fw text-primary"></i> +227 93 95 63 64
 
                                 </div>
                                 <div class="navbar-slogan ">
-                                    <i class="fa fa-envelope-o fa-fw text-primary"></i>contact@nigerielle.ne
-                                    <br>
+                                    <i class="fa fa-envelope-o fa-fw text-primary"></i> <a href="mailto:contact@nigerielle.ne">contact@nigerielle.ne</a>
                                 </div>
                             </div>
                             <!--user menu-->
@@ -167,17 +166,17 @@
                             <li class="icon-link">
                                 <a href="index.php?action=home"><i class="fa fa-home"></i></a>
                             </li>
-                            <li><a href="index.php?action=activite">Activités</a></li>
                             <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Qui-sommes-nous ?<b class="caret"></b></a>
                                 <!-- Dropdown Menu -->
                                 <ul class="dropdown-menu">
                                     <li class="dropdown-header"><a href="index.php?action=mission">Missions</a> </li>
+                                    <li><a href="index.php?action=engagement" tabindex="-1" class="menu-item">Engagement</a></li>
                                     <li><a href="index.php?action=objectif" tabindex="-1" class="menu-item">Objectifs</a></li>
                                     <li><a href="index.php?action=valeurs" tabindex="-1" class="menu-item">Valeurs</a></li>
-                                    <li><a href="index.php?action=engagement" tabindex="-1" class="menu-item">engagement</a></li>
                                 </ul>
                             </li>
+                            <li><a href="index.php?action=activite">Activités</a></li>
                             <li class="nav-item">
                             <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Programme<b class="caret"></b></a>
