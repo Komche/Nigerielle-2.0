@@ -16,6 +16,12 @@ if (!empty($_GET['action'])) {
         include_once('view/engagement_view.php');
     }elseif ($action=='contact') {
         include_once('view/contact_view.php');
+    }elseif ($action=='galerie') {
+        include_once('view/galerie_view.php');
+    }elseif ($action=='Hanane') {
+        include_once('view/Hanane_view.php');
+    }elseif ($action=='actualite') {
+        include_once('view/actualite_view.php');
     }
 }else {
     include_once('view/home_view.php');

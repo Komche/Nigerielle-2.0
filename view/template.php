@@ -168,7 +168,7 @@
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Qui-sommes-nous ?<b class="caret"></b></a>
                                 <!-- Dropdown Menu -->
                                 <ul class="dropdown-menu">
-                                <li><a href="about.html" tabindex="-1" class="menu-item">Prèsentations</a></li>
+                                <li><a href="about.html" tabindex="-1" class="menu-item">Présentation</a></li>
                                     <li class="dropdown-header"><a href="index.php?action=mission">Missions</a> </li>
                                     <li><a href="index.php?action=objectif" tabindex="-1" class="menu-item">Objectifs</a></li>
                                     <li><a href="index.php?action=valeurs" tabindex="-1" class="menu-item">Valeurs</a></li>
@@ -176,18 +176,15 @@
                                 </ul>
                             </li>
                             <li class="nav-item">
-                    
                             <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Programme<b class="caret"></b></a>
                                 <!-- Dropdown Menu -->
                                 <ul class="dropdown-menu">
-                                <li class="dropdown-header"><a href="index1.php?action=Hanane">Hanane</a> </li>
-                                
-    
+                                <li class="dropdown-header"><a href="index.php?action=Hanane">Hanane</a> </li>
                                 </ul>
                             </li>
-                            <li><a href="index2.php?action=home">Actualite</a></li>
-                            <li><a href="index3.php?action=home">Galerie</a></li>
+                            <li><a href="index.php?action=actualite">Actualite</a></li>
+                            <li><a href="index.php?action=galerie">Galerie</a></li>
                             <li><a href="index.php?action=contact">Contact</a></li>
                          <!--<li class="dropdown dropdown-mm">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mega Menu<b class="caret"></b></a>
