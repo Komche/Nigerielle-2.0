@@ -73,7 +73,7 @@
     <!--Showcase-->
     <div class="showcase block block-border-bottom-grey">
       <div class="container">
-        <h2 class="block-title">
+        <h2 class="block-title text-center">
             Actualités
           </h2>
 
@@ -213,7 +213,7 @@
     <!-- Services -->
     <div class="services block block-bg-gradient block-border-bottom">
       <div class="container">
-        <h2 class="block-title">
+        <h2 class="block-title text-center">
             Nos services
           </h2>
         <div class="row">
@@ -330,35 +330,37 @@ Usage: data-block-bg-img="IMAGE-URL" to apply a background image clearly via jQu
    <div class="block block-pd-sm block-bg-primary">
     <div class="container">
       <div class="row">
-        <h3 class="col-md-4">
+        <h3 class="col-md-12">
+            <p class="text-center">
             Partenaires
+            </p>
           </h3>
-        <div class="col-md-8">
+        <div class="col-md-12">
           <div class="row">
             <!--Client logos should be within a 120px wide by 60px height image canvas-->
             <div class="col-xs-6 col-md-2">
               <a href="https://bootstrapmade.com" title="Client 1">
-                  <img src="public/img/sonibank.jpeg" height="1000px" width="150px"  alt="" class="img-responsive">
+                  <img src="public/img/sonibank.jpeg" style="width: 150px; height: 100px"  alt="" class="img-responsive">
                 </a>
             </div>
             <div class="col-xs-6 col-md-2">
               <a href="https://bootstrapmade.com" title="Client 2">
-                  <img src="public/img/seen.jpeg" alt="Client 2 logo" class="img-responsive">
+                  <img src="public/img/seen.jpeg" style="width: 150px; height: 100px" alt="Client 2 logo" class="img-responsive">
                 </a>
             </div>
             <div class="col-xs-6 col-md-2">
               <a href="https://bootstrapmade.com" title="Client 3">
-                  <img src="public/img/orano.png" alt="Client 3 logo" class="img-responsive">
+                  <img src="public/img/orano.png" style="width: 150px; height: 100px" alt="Client 3 logo" class="img-responsive">
                 </a>
             </div>
             <div class="col-xs-6 col-md-2">
               <a href="https://bootstrapmade.com" title="Client 4">
-                  <img src="public/img/haut.jpg" alt="Client 4 logo" class="img-responsive">
+                  <img src="public/img/haut.jpg" style="width: 150px; height: 100px" alt="Client 4 logo" class="img-responsive">
                 </a>
             </div>
             <div class="col-xs-6 col-md-2">
               <a href="https://bootstrapmade.com" title="Client 5">
-                  <img src="public/img/banque.png" alt="Client 5 logo" class="img-responsive">
+                  <img src="public/img/banque.png" style="width: 150px; height: 100px" alt="Client 5 logo" class="img-responsive">
               </a>
             </div>
           </div>
