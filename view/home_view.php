@@ -66,7 +66,7 @@
       <div class="container">
         <h2 class="text-shadow-white">
         Créer un réseau de femmes entrepreneures, qui permettra l’échange de bonnes pratiques, d’expériences, et mutualiser les moyens et les compétences.
-            <a href="about.html" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>
+            <!--<a href="about.html" class="btn btn-more"><i class="fa fa-plus"></i>Read more</a>-->
           </h2>
       </div>
     </div>

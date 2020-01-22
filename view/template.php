@@ -168,7 +168,6 @@
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Qui-sommes-nous ?<b class="caret"></b></a>
                                 <!-- Dropdown Menu -->
                                 <ul class="dropdown-menu">
-                                <li><a href="about.html" tabindex="-1" class="menu-item">Présentation</a></li>
                                     <li class="dropdown-header"><a href="index.php?action=mission">Missions</a> </li>
                                     <li><a href="index.php?action=objectif" tabindex="-1" class="menu-item">Objectifs</a></li>
                                     <li><a href="index.php?action=valeurs" tabindex="-1" class="menu-item">Valeurs</a></li>

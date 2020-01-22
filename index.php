@@ -8,7 +8,7 @@ if (!empty($_GET['action'])) {
         include_once('view/mission_view.php');
     }elseif ($action=='objectif') {
         include_once('view/objectif_view.php');
-    }elseif ($action=='valeurs') {
+    }elseif ($action=='valeur') {
         include_once('view/valeurs_view.php');
     }elseif ($action=='activite') {
         include_once('view/activite_view.php');
