@@ -23,7 +23,7 @@
                            <span class="forActive"></span>
                            </span>
                            <span class="itemDot itemDot4" data-tab="4">
-                           <i class="fa fa-book"></i>
+                           <i class="fa fa-briefcase"></i>
                            <span class="forActive"></span>
                            </span>
                            <span class="itemDot itemDot5" data-tab="5">
@@ -31,7 +31,7 @@
                            <span class="forActive"></span>
                            </span>
                            <span class="itemDot itemDot6" data-tab="6">
-                           <i class="fa fa-briefcase"></i>
+                           <i class="fa fa-book"></i>
                            <span class="forActive"></span>
                            </span>
                         </div>
@@ -56,7 +56,7 @@
                            <div class="CirItem title-box CirItem4">
                               <h2 class="title"><span>Nigerielles Training</span></h2>
                               <p>C’est le volet formation de l’organisation. En partenariat avec des institutions et des cabinets de formation de la place... <a href="#" class="btn btn-more">Lire plus</a></p>
-                              <i class="fa fa-book"></i>
+                              <i class="fa fa-briefcase"></i>
                            </div>
                            <div class="CirItem title-box CirItem5">
                               <h2 class="title"><span>La Smart House</span></h2>
@@ -66,7 +66,7 @@
                            <div class="CirItem title-box CirItem6">
                               <h2 class="title"><span>Nigerielles Le Magazine</span></h2>
                               <p>Au sortir de chaque édition du Salon National de l’entrepreneuriat féminin, un magazine d’éducation... <a href="#" class="btn btn-more">Lire plus</a> </p>
-                              <i class="fa fa-briefcase"></i>
+                              <i class="fa fa-book"></i>
                            </div>
                         </div>
                      </div>

@@ -1,5 +1,4 @@
 <?php
-
 if (!empty($_GET['action'])) {
     extract($_GET);
     if ($action=='home') {
@@ -14,14 +13,22 @@ if (!empty($_GET['action'])) {
         include_once('view/activite_view.php');
     }elseif ($action=='engagement') {
         include_once('view/engagement_view.php');
-    }elseif ($action=='contact') {
-        include_once('view/contact_view.php');
+    }elseif ($action=='salon') {
+        include_once('view/salon_view.php');
     }elseif ($action=='galerie') {
         include_once('view/galerie_view.php');
     }elseif ($action=='Hanane') {
         include_once('view/Hanane_view.php');
     }elseif ($action=='actualite') {
         include_once('view/actualite_view.php');
+    }elseif ($action=='presentation') {
+        include_once('view/presentation_view.php');
+    }elseif ($action=='boutique') {
+        include_once('view/boutique_view.php');
+    }elseif ($action=='exelence') {
+        include_once('view/exelence_view.php');
+    }elseif ($action=='foire') {
+        include_once('view/foire_view.php');
     }
 }else {
     include_once('view/home_view.php');
