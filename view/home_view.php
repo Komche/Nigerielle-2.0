@@ -1,5 +1,5 @@
 <?php
-$title = "Nigerielles-entreprendre au feminin";
+$title = "Nigerielles - Entreprendre au feminin";
 ob_start();
 ?>
 <div class="hero" id="highlighted">
