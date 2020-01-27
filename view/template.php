@@ -170,10 +170,11 @@
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Qui-sommes-nous ?<b class="caret"></b></a>
                                 <!-- Dropdown Menu -->
                                 <ul class="dropdown-menu">
+                                <li class="dropdown-header"><a href="index.php?action=presentation">Présentation</a> </li>
                                     <li class="dropdown-header"><a href="index.php?action=mission">Missions</a> </li>
                                     <li><a href="index.php?action=engagement" tabindex="-1" class="menu-item">Engagement</a></li>
                                     <li><a href="index.php?action=objectif" tabindex="-1" class="menu-item">Objectifs</a></li>
-                                    <li><a href="index.php?action=valeurs" tabindex="-1" class="menu-item">Valeurs</a></li>
+                                    <li><a href="index.php?action=valeur" tabindex="-1" class="menu-item">Valeurs</a></li>
                                 </ul>
                             </li>
                             <li><a href="index.php?action=activite">Activités</a></li>
@@ -187,7 +188,16 @@
                             </li>
                             <li><a href="index.php?action=actualite">Actualite</a></li>
                             <li><a href="index.php?action=galerie">Galerie</a></li>
-                            <li><a href="index.php?action=contact">Contact</a></li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Réalisations<b class="caret"></b></a>
+                                <!-- Dropdown Menu -->
+                                <ul class="dropdown-menu">
+                                    <li class="dropdown-header"><a href="index.php?action=salon">Salon national de l'entrepreneuriat feminin</a> </li>
+                                    <li class="dropdown-header"><a href="index.php?action=boutique">Boutique de vente des produit fabriqués au Niger</a> </li>
+                                    <li class="dropdown-header"><a href="index.php?action=exelence">Nigerielle d'exelence</a> </li>
+                                    <li class="dropdown-header"><a href="index.php?action=foire">La foire de 3N</a> </li>
+                                </ul>
+                            </li>
                             <!--<li class="dropdown dropdown-mm">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mega Menu<b class="caret"></b></a>
                                 
