@@ -122,9 +122,9 @@
                                 </h1>
                             </a>
 
-                            <div class="navbar-slogan">
-                                <h6>Entreprendre au feminin</h6>
-                            </div>
+                            <div class="navbar-slogan ">
+                                <i>Entreprendre au feminin</i>
+                                </div>
 
                         </div>
                         <!--header rightside-->
