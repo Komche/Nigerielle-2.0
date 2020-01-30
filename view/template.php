@@ -121,11 +121,9 @@
                                     <img style="height: 60px" src="public/img/logo.jpg" alt="Flexor Logo">
                                 </h1>
                             </a>
-
                             <div class="navbar-slogan ">
                                 <i>Entreprendre au feminin</i>
                                 </div>
-
                         </div>
                         <!--header rightside-->
                         <div class="col-md-6">
@@ -133,7 +131,6 @@
                                 <div class="navbar-slogan">
                                     <i class="fa fa-phone fa-fw text-primary"></i> +227 90 95 63 64<br>
                                     <i class="fa fa-phone fa-fw text-primary"></i> +227 93 95 63 64
-
                                 </div>
                                 <div class="navbar-slogan ">
                                     <i class="fa fa-envelope-o fa-fw text-primary"></i> <a href="mailto:contact@nigerielle.ne">contact@nigerielle.ne</a>
@@ -178,15 +175,16 @@
                                 </ul>
                             </li>
                             <li><a href="index.php?action=activite">Activités</a></li>
+                            <li><a href="index.php?action=service">Services</a></li>
                             <li class="nav-item">
                             <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Programme<b class="caret"></b></a>
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Programmes<b class="caret"></b></a>
                                 <!-- Dropdown Menu -->
                                 <ul class="dropdown-menu">
                                     <li class="dropdown-header"><a href="index.php?action=Hanane">Hanane</a> </li>
                                 </ul>
                             </li>
-                            <li><a href="index.php?action=actualite">Actualite</a></li>
+                            <li><a href="index.php?action=actualite">Actualités</a></li>
                             <li><a href="index.php?action=galerie">Galerie</a></li>
                             <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Réalisations<b class="caret"></b></a>
@@ -194,7 +192,7 @@
                                 <ul class="dropdown-menu">
                                     <li class="dropdown-header"><a href="index.php?action=salon">Salon national de l'entrepreneuriat feminin</a> </li>
                                     <li class="dropdown-header"><a href="index.php?action=boutique">Boutique de vente des produit fabriqués au Niger</a> </li>
-                                    <li class="dropdown-header"><a href="index.php?action=exelence">Nigerielle d'exelence</a> </li>
+                                    <li class="dropdown-header"><a href="index.php?action=exelence">Nigerielle d'exellence</a> </li>
                                     <li class="dropdown-header"><a href="index.php?action=foire">La foire de 3N</a> </li>
                                 </ul>
                             </li>

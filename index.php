@@ -25,10 +25,12 @@ if (!empty($_GET['action'])) {
         include_once('view/presentation_view.php');
     }elseif ($action=='boutique') {
         include_once('view/boutique_view.php');
-    }elseif ($action=='exelence') {
-        include_once('view/exelence_view.php');
+    }elseif ($action=='exellence') {
+        include_once('view/exellence_view.php');
     }elseif ($action=='foire') {
         include_once('view/foire_view.php');
+    }elseif ($action=='service') {
+        include_once('view/service_view.php');
     }
 }else {
     include_once('view/home_view.php');

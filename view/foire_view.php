@@ -54,9 +54,9 @@
                 </a>
             </li>
             <li>
-              <a href="index.php?action=exelence">
-                  Nigerielle d'exelence
-                  <small>Notre nigerielle d'exelence</small>
+              <a href="index.php?action=exellence">
+                  Nigerielle d'exellence
+                  <small>Notre nigerielle d'exellence</small>
                 </a>
             </li>
             <li class="active" >

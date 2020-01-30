@@ -17,7 +17,7 @@
             <h3 class="block-title">
             Nos produits.
               </h3>
-              <img src="public/img/presentation.JPG" alt="About us" class="img-responsive img-thumbnail pull-right m-l m-b">
+              <img src="public/img/hanane.jpeg" alt="About us" class="img-responsive img-thumbnail pull-right m-l m-b">
             <p>
             Nos produits  fabriqués au Niger sont disponible pour vous dans notre boutique
           </p>
@@ -55,9 +55,9 @@
                 </a>
             </li>
             <li>
-              <a href="index.php?action=exelence">
-                  Nigerielle d'exelence
-                  <small>Notre nigerielle d'exelence</small>
+              <a href="index.php?action=exellence">
+                  Nigerielle d'exellence
+                  <small>Notre nigerielle d'exellence</small>
                 </a>
             </li>
             <li >

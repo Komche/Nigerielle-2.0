@@ -224,11 +224,11 @@ ob_start();
         <h4 class="text-weight-strong">
               Espace coworking 
               </h4>
-            <p>Nigérielles vous offre un espace de travail optimisé pour le coworking : connexion internet, espace libre, espace Café, ordinateurs, accompagnement, collaboration … à des tarifs abordables. 
+            <!--<p>Nigérielles vous offre un espace de travail optimisé pour le coworking : connexion internet, espace libre, espace Café, ordinateurs, accompagnement, collaboration … à des tarifs abordables. 
               Un accompagnement spécial est réservé aux femmes entrepreneures ou porteuses de projets afin de les aider à réaliser et/ou optimiser leur entreprise.</p>
             <p>
               <a href="#" class="btn btn-more i-right">Lire plus <i class="fa fa-angle-right"></i></a>
-            </p>
+            </p>-->
       </div>
       <div class="col-md-4 text-center">
         <span class="fa-stack fa-5x">
@@ -237,11 +237,11 @@ ob_start();
         <h4 class="text-weight-strong">
           Prestations de services traiteurs 
               </h4>
-            <p>Nigerielles facilite aussi la mise en relation entre prestataires et clients. Particuliers, Entreprises, Envoyez votre demande de service et nous vous proposons le prestataire qui vous convient. 
+           <!-- <p>Nigerielles facilite aussi la mise en relation entre prestataires et clients. Particuliers, Entreprises, Envoyez votre demande de service et nous vous proposons le prestataire qui vous convient. 
               Prestataires, sociétés de services ou freelances, rejoignez notre réseau et décrochez des prestations de services commandées par des entreprises ou des particuliers afin de booster votre business .</p>
             <p>
               <a href="#" class="btn btn-more i-right">Lire plus<i class="fa fa-angle-right"></i></a>
-            </p>
+            </p>-->
       </div>
       <div class="col-md-4 text-center">
         <span class="fa-stack fa-5x">
@@ -250,10 +250,10 @@ ob_start();
         <h4 class="text-weight-strong">
               Location de salles de réunion 
               </h4>
-            <p>Vous organisez un séminaire résidentiel, un team building, ou une réunion ? NigeriElles dispose d'une offre complète de salle, qui saura répondre à tous vos besoins (espace privé sans distraction, garantissant la productivité de votre équipe et l’efficacité de vos réunions) avec proposition de pauses café fournies par nos prestataires du groupe de femmes entrepreneures nigériennes.</p>
+            <!--<p>Vous organisez un séminaire résidentiel, un team building, ou une réunion ? NigeriElles dispose d'une offre complète de salle, qui saura répondre à tous vos besoins (espace privé sans distraction, garantissant la productivité de votre équipe et l’efficacité de vos réunions) avec proposition de pauses café fournies par nos prestataires du groupe de femmes entrepreneures nigériennes.</p>
             <p>
               <a href="#" class="btn btn-more i-right">Lire plus <i class="fa fa-angle-right"></i></a>
-            </p>
+            </p>-->
       </div>
     </div>
   </div>

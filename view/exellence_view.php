@@ -1,5 +1,5 @@
 <?php 
-    $title = "Nigerielle d'exelence";
+    $title = "Nigerielle d'exellence";
     ob_start();
 ?>
  <!-- ======== @Region: #content ======== -->
@@ -55,9 +55,9 @@
                 </a>
             </li>
             <li class="active">
-              <a href="index.php?action=exelence">
-                  Nigerielle d'exelence
-                  <small>Notre nigerielle d'exelence</small>
+              <a href="index.php?action=exellence">
+                  Nigerielle d'exellence
+                  <small>Notre nigerielle d'exellence</small>
                 </a>
             </li>
             <li >

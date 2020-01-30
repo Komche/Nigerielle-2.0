@@ -27,7 +27,7 @@
         <div class="col-md-9 col-md-push-3">
           <div class="page-header">
             <h1>
-                Notre Mission
+                Nos Missions
                 <small> </small>
               </h1>
           </div>
@@ -43,19 +43,19 @@
           <ul class="nav nav-pills nav-stacked">
             <li class="active">
               <a href="index.php?action=mission" class="first">
-                  Notre Mission 
+                  Nos Missions 
                   <small>How It All Began</small>
                 </a>
             </li>
             <li>
               <a href="index.php?action=objectif">
-                  Notre objectif 
+                  Nos objectifs 
                   <small>Our team of stars</small>
                 </a>
             </li>
             <li>
               <a href="index.php?action=valeur">
-                  Notre Valeur
+                  Nos Valeurs
                   <small>How to get in touch</small>
                 </a>
             </li>
