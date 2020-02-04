@@ -19,7 +19,8 @@
               </h3>
               <img src="public/img/hanane.jpeg" alt="About us" class="img-responsive img-thumbnail pull-right m-l m-b">
             <p>
-            Nos produits  fabriqués au Niger sont disponible pour vous dans notre boutique
+            Nos produits fabriqués au Niger sont disponibles en ligne sur notre site           
+            <a href="http://shop.nigerielles.ne">Shop</a><br>
           </p>
         </div>
           <div class="block-highlight block-pd-h block-pd-sm">

@@ -24,7 +24,6 @@
           <div class="block-highlight block-pd-h block-pd-sm">
           </div>
           <div class="block">
-            
             <div class="row">
               <div class="col-md-4">
 

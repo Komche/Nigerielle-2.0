@@ -64,7 +64,7 @@
             </li>
             <li >
               <a href="index.php?action=objectif">
-                  Objectif
+                  Objectifs
                   <small>Nos objectifs</small>
                 </a>
             </li>

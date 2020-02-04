@@ -20,7 +20,7 @@
             Le Sanef se clôture par un diner de gala dénommé Nigerielles Awards au cours duquel des femmes nigériennes au parcours exceptionnel sont récompensées .</p>
           <a href="#">SANEF 2019</a><br>
           <a href="#">SANEF 2018</a><br>
-          <a href="#">SANEF 2017</a>
+          <a href="                                                                                                                                                                                   #">SANEF 2017</a>
         </div>
           <div class="block-highlight block-pd-h block-pd-sm">
           </div>

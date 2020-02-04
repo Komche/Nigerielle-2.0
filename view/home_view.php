@@ -17,10 +17,9 @@ ob_start();
               </h2>
               <p> Association des femmes entrepreneurs et porteuses de projet.
               </p>
-
             </div>
             <div class="col-md-6 col-md-pull-6 hidden-xs">
-              <img src="public/img/slide.JPG" alt="Slide 1" class="center-block img-responsive">
+              <img width="700" height="800" src="public/img/slide.JPG" alt="Slide 1" class="center-block img-responsive">
             </div>
           </div>
         </div>
@@ -73,7 +72,7 @@ ob_start();
   <!--Showcase-->
   <div class="showcase block block-border-bottom-grey">
     <div class="container">
-      <h2 class="block-title text-center">
+      <h2 style="margin-bottom: 20px;" class=" text-center">
         Actualités
       </h2>
 
@@ -213,44 +212,55 @@ ob_start();
 <!-- Services -->
 <div class="services block block-bg-gradient block-border-bottom">
   <div class="container">
-    <h2 class="block-title text-center">
+    <h2 style="margin-bottom: 20px;" class=" text-center">
       Nos services
     </h2>
     <div class="row">
       <div class="col-md-4 text-center text-dark">
-        <span class="fa-stack fa-5x">
-          <i class="fa fa-circle fa-stack-2x text-primary"></i>
-          <i style="color: black" class="fa  fa-group fa-stack-1x fa-inverse"></i> </span>
+        <a href="index.php?action=service">
+          <span class="fa-stack fa-5x">
+            <i class="fa fa-circle fa-stack-2x text-primary"></i>
+            <i style="color: black" class="fa  fa-group fa-stack-1x fa-inverse"></i>
+          </span>
+        </a>
         <h4 class="text-weight-strong">
-              Espace coworking 
-              </h4>
-            <!--<p>Nigérielles vous offre un espace de travail optimisé pour le coworking : connexion internet, espace libre, espace Café, ordinateurs, accompagnement, collaboration … à des tarifs abordables. 
+          Espace coworking
+        </h4>
+        <!--<p>Nigérielles vous offre un espace de travail optimisé pour le coworking : connexion internet, espace libre, espace Café, ordinateurs, accompagnement, collaboration … à des tarifs abordables. 
               Un accompagnement spécial est réservé aux femmes entrepreneures ou porteuses de projets afin de les aider à réaliser et/ou optimiser leur entreprise.</p>
             <p>
               <a href="#" class="btn btn-more i-right">Lire plus <i class="fa fa-angle-right"></i></a>
             </p>-->
       </div>
       <div class="col-md-4 text-center">
-        <span class="fa-stack fa-5x">
-          <i class="fa fa-circle fa-stack-2x text-primary"></i>
-          <i style="color: black" class="fa fa-pencil fa-stack-1x fa-inverse"></i> </span>
+        <a href="index.php?action=service">
+          <span class="fa-stack fa-5x">
+            <i class="fa fa-circle fa-stack-2x text-primary"></i>
+            <i style="color: black" class="fa fa-pencil fa-stack-1x fa-inverse"></i> 
+          </span>
+        </a>
+
         <h4 class="text-weight-strong">
-          Prestations de services traiteurs 
-              </h4>
-           <!-- <p>Nigerielles facilite aussi la mise en relation entre prestataires et clients. Particuliers, Entreprises, Envoyez votre demande de service et nous vous proposons le prestataire qui vous convient. 
+          Prestations de services traiteurs
+        </h4>
+        <!-- <p>Nigerielles facilite aussi la mise en relation entre prestataires et clients. Particuliers, Entreprises, Envoyez votre demande de service et nous vous proposons le prestataire qui vous convient. 
               Prestataires, sociétés de services ou freelances, rejoignez notre réseau et décrochez des prestations de services commandées par des entreprises ou des particuliers afin de booster votre business .</p>
             <p>
               <a href="#" class="btn btn-more i-right">Lire plus<i class="fa fa-angle-right"></i></a>
             </p>-->
       </div>
       <div class="col-md-4 text-center">
-        <span class="fa-stack fa-5x">
+      <a href="index.php?action=service">
+      <span class="fa-stack fa-5x">
           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-          <i style="color: black" class="fa fa-cogs fa-stack-1x fa-inverse"></i> </span>
+          <i style="color: black" class="fa fa-cogs fa-stack-1x fa-inverse"></i>
+         </span>
+        </a>
+        
         <h4 class="text-weight-strong">
-              Location de salles de réunion 
-              </h4>
-            <!--<p>Vous organisez un séminaire résidentiel, un team building, ou une réunion ? NigeriElles dispose d'une offre complète de salle, qui saura répondre à tous vos besoins (espace privé sans distraction, garantissant la productivité de votre équipe et l’efficacité de vos réunions) avec proposition de pauses café fournies par nos prestataires du groupe de femmes entrepreneures nigériennes.</p>
+          Location de salles de réunion
+        </h4>
+        <!--<p>Vous organisez un séminaire résidentiel, un team building, ou une réunion ? NigeriElles dispose d'une offre complète de salle, qui saura répondre à tous vos besoins (espace privé sans distraction, garantissant la productivité de votre équipe et l’efficacité de vos réunions) avec proposition de pauses café fournies par nos prestataires du groupe de femmes entrepreneures nigériennes.</p>
             <p>
               <a href="#" class="btn btn-more i-right">Lire plus <i class="fa fa-angle-right"></i></a>
             </p>-->
@@ -260,7 +270,7 @@ ob_start();
 </div>
 <!-- Pricing -->
 <div class="block-contained">
-  <h2 class="block-title">
+  <h2 style="text-align: center">
     GALERIE PHOTOS
   </h2>
   <div class="row">
@@ -271,7 +281,7 @@ ob_start();
             galerie4
           </h4>
         </div>
-        <img class="img-gallery" src="public/img/slide7.JPG" width="400px" height="400px">
+        <a href="index.php?action=galerie"><img class="img-gallery" src="public/img/slide7.JPG" width="400px" height="400px"></a>
 
       </div>
     </div>
@@ -282,7 +292,7 @@ ob_start();
             galerie2
           </h4>
         </div>
-        <img class="img-gallery" src="public/img/n10.JPG" width="400px" height="400px">
+        <a href="index.php?action=galerie"><img class="img-gallery" src="public/img/n10.JPG" width="400px" height="400px"></a>
       </div>
     </div>
     <div class="col-md-3 text-center">
@@ -303,7 +313,7 @@ ob_start();
             galerie4
           </h4>
         </div>
-        <img class="img-gallery" src="public/img/n6.JPG" width="400px" height="400px">
+        <a href="index.php?action=galerie"><img class="img-gallery" src="public/img/n6.JPG" width="400px" height="400px"></a>
       </div>
     </div>
   </div>
@@ -322,10 +332,10 @@ Usage: data-block-bg-img="IMAGE-URL" to apply a background image clearly via jQu
 <div class="container">
   <div class="block block-border-bottom">
     <!--Type elements-->
-    <h3 class="block-title text-weight-strong text-uppercase">
+    <h3 style="text-align: center">
       Temoignage
     </h3>
-    <h4 class="block-title">
+    <h4 style="margin-bottom: 20px;" class="">
       Quotes
     </h4>
     <blockquote>
@@ -350,7 +360,7 @@ Usage: data-block-bg-img="IMAGE-URL" to apply a background image clearly via jQu
       </div>
     </div>
     <!-- Call out block -->
-    <div class="block block-pd-sm block-bg-primary">
+    <div class="block block-pd-sm block-bg-gradient">
       <div class="container">
         <div class="row">
           <h3 class="col-md-12">
@@ -362,30 +372,31 @@ Usage: data-block-bg-img="IMAGE-URL" to apply a background image clearly via jQu
             <div class="row">
               <!--Client logos should be within a 120px wide by 60px height image canvas-->
               <div class="col-xs-6 col-md-2">
-                <a href="https://bootstrapmade.com" title="Client 1">
-                  <img src="public/img/sonibank.jpeg" style="width: 150px; height: 100px" alt="" class="img-responsive">
-                </a>
-              </div>
-              <div class="col-xs-6 col-md-2">
-                <a href="https://bootstrapmade.com" title="Client 2">
-                  <img src="public/img/seen.jpeg" style="width: 150px; height: 100px" alt="Client 2 logo" class="img-responsive">
-                </a>
-              </div>
-              <div class="col-xs-6 col-md-2">
-                <a href="https://bootstrapmade.com" title="Client 3">
-                  <img src="public/img/orano.png" style="width: 150px; height: 100px" alt="Client 3 logo" class="img-responsive">
-                </a>
-              </div>
-              <div class="col-xs-6 col-md-2">
-                <a href="https://bootstrapmade.com" title="Client 4">
+                <a href="http://www.initiative3n.ne/" title="Haut Commisariat Administrative 3N">
                   <img src="public/img/haut.jpg" style="width: 150px; height: 100px" alt="Client 4 logo" class="img-responsive">
                 </a>
               </div>
               <div class="col-xs-6 col-md-2">
-                <a href="https://bootstrapmade.com" title="Client 5">
-                  <img src="public/img/banque.png" style="width: 150px; height: 100px" alt="Client 5 logo" class="img-responsive">
+                <a href="https://www.banqueatlantique.net/ner/" title="Niger | Banque Atlantique">
+                  <img src="public/img/banque.png" style="width: 150px; height: 100px" alt="Banque Atlantique logo" class="img-responsive">
                 </a>
               </div>
+              <div class="col-xs-6 col-md-2">
+                <a href="https://www.facebook.com/sonibanknet/" title="Sonibank">
+                  <img src="public/img/sonibank.jpeg" style="width: 150px; height: 100px" alt="" class="img-responsive">
+                </a>
+              </div>
+              <div class="col-xs-6 col-md-2">
+                <a href="www.seen-niger.com" title="SEEN">
+                  <img src="public/img/seen.jpeg" style="width: 150px; height: 100px" alt="SEEN logo" class="img-responsive">
+                </a>
+              </div>
+              <div class="col-xs-6 col-md-2">
+                <a href="www.orabank.net" title="Niger | Orabank">
+                  <img src="public/img/orano.png" style="width: 150px; height: 100px" alt="Niger | Orabank logo" class="img-responsive">
+                </a>
+              </div>
+
             </div>
           </div>
         </div>

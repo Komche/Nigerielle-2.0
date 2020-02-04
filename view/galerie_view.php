@@ -6,7 +6,7 @@
       <div class="inner">
         <!--Slideshow-->
         <div  class="container">
-        <h2 class="h1 text-weight-light">
+        <h2  style="text-align: center">
                       <span class="text-primary">Galerie photos</span>
                     </h2>
                   <img src="public/img/slide4.JPG" width="1500px" height="200" class="center-block img-responsive">

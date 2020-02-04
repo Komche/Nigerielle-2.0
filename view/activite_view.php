@@ -83,7 +83,7 @@ ob_start();
                         <div class="CirItem title-box active CirItem1">
                            <h2 class="title"><span>Nigerielles Events</span></h2>
                            <p>Nigerielles Events est le pôle événementiel de l’organisation. Tout au long de l’année, nous organisons des séries...
-                              <a href="#" class="btn btn-more">Lire plus</a>
+                              
                            </p>
                            <i class="fa fa-clock-o"></i>
                         </div>
@@ -94,22 +94,22 @@ ob_start();
                            </div>-->
                         <div class="CirItem title-box CirItem3">
                            <h2 class="title"><span>Nigerielles Business Club</span></h2>
-                           <p>Notre organisation est composée de dynamiques femmes d’affaires et des femmes leaders en devenir, regroupées en... <a href="#" class="btn btn-more">Lire plus</a></p>
+                           <p>Notre organisation est composée de dynamiques femmes d’affaires et des femmes leaders en devenir, regroupées en... </p>
                            <i class="fa fa-tags"></i>
                         </div>
                         <div class="CirItem title-box CirItem4">
                            <h2 class="title"><span>Nigerielles Training</span></h2>
-                           <p>C’est le volet formation de l’organisation. En partenariat avec des institutions et des cabinets de formation de la place... <a href="#" class="btn btn-more">Lire plus</a></p>
+                           <p>C’est le volet formation de l’organisation. En partenariat avec des institutions et des cabinets de formation de la place... </p>
                            <i class="fa fa-briefcase"></i>
                         </div>
                         <div class="CirItem title-box CirItem5">
                            <h2 class="title"><span>La Smart House</span></h2>
-                           <p>La Smart House de Nigerielles est le projet de la mise en place d’un centre incubateur pour femmes entrepreneures... <a href="#" class="btn btn-more">Lire plus</a></p>
+                           <p>La Smart House de Nigerielles est le projet de la mise en place d’un centre incubateur pour femmes entrepreneures... </p>
                            <i class="fa fa-home"></i>
                         </div>
                         <div class="CirItem title-box CirItem6">
                            <h2 class="title"><span>Nigerielles Le Magazine</span></h2>
-                           <p>Au sortir de chaque édition du Salon National de l’entrepreneuriat féminin, un magazine d’éducation... <a href="#" class="btn btn-more">Lire plus</a> </p>
+                           <p>Au sortir de chaque édition du Salon National de l’entrepreneuriat féminin, un magazine d’éducation...  </p>
                            <i class="fa fa-book"></i>
                         </div>
                      </div>

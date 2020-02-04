@@ -7,16 +7,16 @@ ob_start();
    <!--main content-->
    <div class="col-md-6 col-md-push-6">
       <div class="page-header">
-         <h1 id="activite-h1">
+         <h1 id="service-h1">
           Espace coworking 
          </h1>
       </div>
       <div class="block block-border-bottom-grey block-pd-sm">
-         <h3 id="activite-tile" class="block-title">
+         <h3 id="service-tile" class="block-title">
          Nigérielles vous offre un espace de travail optimisé pour le coworking
          </h3>
-         <img id="activite-img" src="public/img/n5.JPG" alt="About us" class="img-responsive img-thumbnail pull-right m-l m-b">
-         <p id="activite-content">
+         <img id="service-img" src="public/img/n5.JPG" alt="About us" class="img-responsive img-thumbnail pull-right m-l m-b">
+         <p id="service-content">
          Nigérielles vous offre un espace de travail optimisé pour le coworking : connexion internet, espace libre, espace Café, ordinateurs, accompagnement, collaboration … à des tarifs abordables. 
          Un accompagnement spécial est réservé aux femmes entrepreneures ou porteuses de projets afin de les aider à réaliser et/ou optimiser leur entreprise.
          </p>
@@ -68,7 +68,7 @@ ob_start();
                         <div class="CirItem title-box active CirItem1">
                            <h2 class="title"><span>Espace coworking </span></h2>
                            <p>Nigérielles vous offre un espace de travail optimisé pour le coworking...
-                              <a href="#" class="btn btn-more">Lire plus</a>
+                              
                            </p>
                            <i class="fa fa-clock-o"></i>
                         </div>
@@ -79,12 +79,12 @@ ob_start();
                            </div>-->
                         <div class="CirItem title-box CirItem3">
                            <h2 class="title"><span>Prestations de services traiteurs </span></h2>
-                           <p>NigerVous organisez un séminaire résidentiel, un team building, ou une réunion ?.... <a href="#" class="btn btn-more">Lire plus</a></p>
+                           <p>NigerVous organisez un séminaire résidentiel, un team building, ou une réunion ?.... </p>
                            <i class="fa fa-tags"></i>
                         </div>
                         <div class="CirItem title-box CirItem4">
                            <h2 class="title"><span> Location de salles de réunion </span></h2>
-                           <p>Vous organisez un séminaire résidentiel, un team building, ou une réunion ?... <a href="#" class="btn btn-more">Lire plus</a></p>
+                           <p>Vous organisez un séminaire résidentiel, un team building, ou une réunion ?... </p>
                            <i class="fa fa-briefcase"></i>
                         </div>
                       

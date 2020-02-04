@@ -23,7 +23,7 @@
     <meta name="twitter:image" content="">
 
     <!-- Fav and touch icons -->
-    <link rel="shortcut icon" href="img/icons/favicon.png">
+    <link rel="shortcut icon" href="public/img/logo.jpg">
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/icons/114x114.png">
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/icons/72x72.png">
     <link rel="apple-touch-icon-precomposed" href="img/icons/default.png">
@@ -116,20 +116,20 @@
                     <div class="row">
                         <div class="col-md-6">
                             <!--navbar-branding/logo - hidden image tag & site name so things like Facebook to pick up, actual logo set via CSS for flexibility -->
-                            <a style="position: relative; bottom: 30px" class="navbar-brand" href="index.html" title="Home">
+                            <a style="position: relative; bottom: 30px" class="navbar-brand" href="index.php" title="Home">
                                 <h1 class="">
                                     <img style="height: 60px" src="public/img/logo.jpg" alt="Flexor Logo">
                                 </h1>
                             </a>
                             <div class="navbar-slogan ">
                                 <i>Entreprendre au feminin</i>
-                                </div>
+                            </div>
                         </div>
                         <!--header rightside-->
                         <div class="col-md-6">
                             <div class="pull-right">
-                                <div class="navbar-slogan">
-                                    <i class="fa fa-phone fa-fw text-primary"></i> +227 90 95 63 64<br>
+                                <div style="position: relative; bottom: 5px" class="navbar-slogan text-center">
+                                    <i class="fa fa-phone fa-fw text-primary"></i> +227 90 95 63 64 <br>
                                     <i class="fa fa-phone fa-fw text-primary"></i> +227 93 95 63 64
                                 </div>
                                 <div class="navbar-slogan ">
@@ -152,10 +152,9 @@
                     <!--social media icons-->
                     <div class="navbar-text social-media social-media-inline pull-right nav-centrer">
                         <!--@todo: replace with company social media details-->
-                        <a href="#"><i class="fa fa-twitter"></i></a>
-                        <a href="#"><i class="fa fa-facebook"></i></a>
-                        <a href="#"><i class="fa fa-linkedin"></i></a>
-                        <a href="#"><i class="fa fa-google-plus"></i></a>
+                        <a href="https://twitter.com/nigerielles?lang=fr"><i class="fa fa-twitter"></i></a>
+                        <a href="https://web.facebook.com/NigeriElles/"><i class="fa fa-facebook"></i></a>
+                    
                     </div>
                     <!--everything within this div is collapsed on mobile-->
                     <div class="navbar-collapse collapse">
@@ -167,7 +166,7 @@
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Qui-sommes-nous ?<b class="caret"></b></a>
                                 <!-- Dropdown Menu -->
                                 <ul class="dropdown-menu">
-                                <li class="dropdown-header"><a href="index.php?action=presentation">Présentation</a> </li>
+                                    <li class="dropdown-header"><a href="index.php?action=presentation">Présentation</a> </li>
                                     <li class="dropdown-header"><a href="index.php?action=mission">Missions</a> </li>
                                     <li><a href="index.php?action=engagement" tabindex="-1" class="menu-item">Engagement</a></li>
                                     <li><a href="index.php?action=objectif" tabindex="-1" class="menu-item">Objectifs</a></li>
@@ -287,9 +286,9 @@
                     <!--social media icons-->
                     <div class="social-media social-media-stacked">
                         <!--@todo: replace with company social media details-->
-                        <a href="#"><i class="fa fa-twitter fa-fw"></i> Twitter</a>
-                        <a href="#"><i class="fa fa-facebook fa-fw"></i> Facebook</a>
-                        <a href="#"><i class="fa fa-google-plus fa-fw"></i> Google+</a>
+                        <a href="https://twitter.com/nigerielles?lang=fr"><i class="fa fa-twitter fa-fw"></i> Twitter</a>
+                        <a href="https://web.facebook.com/NigeriElles/"><i class="fa fa-facebook fa-fw"></i> Facebook</a>
+                        
                     </div>
                 </div>
             </div>
