@@ -118,7 +118,7 @@
                             <!--navbar-branding/logo - hidden image tag & site name so things like Facebook to pick up, actual logo set via CSS for flexibility -->
                             <a style="position: relative; bottom: 30px" class="navbar-brand" href="index.php" title="Home">
                                 <h1 class="">
-                                    <img style="height: 60px" src="public/img/logo.jpg" alt="Flexor Logo">
+                                    <img style="height: 80px" src="public/img/logo.jpg" alt="Flexor Logo">
                                 </h1>
                             </a>
                             <div class="navbar-slogan ">
