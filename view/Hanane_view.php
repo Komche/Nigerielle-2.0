@@ -19,7 +19,6 @@
       </div>
      </div>
         <!-- sidebar -->
-       
     </div>
   </div>
   
