@@ -73,7 +73,7 @@ ob_start();
   <div class="showcase block block-border-bottom-grey">
     <div class="container">
       <h2 style="margin-bottom: 20px;" class=" text-center">
-        Actualités
+        <b>Actualités</b>
       </h2>
 
       <div class="item-carousel" data-toggle="owlcarousel" data-owlcarousel-settings='{"items":4, "pagination":false, "navigation":true, "itemsScaleUp":true}'>
@@ -213,7 +213,7 @@ ob_start();
 <div class="services block block-bg-gradient block-border-bottom">
   <div class="container">
     <h2 style="margin-bottom: 20px;" class=" text-center">
-      Nos services
+     <b> Nos services</b>
     </h2>
     <div class="row">
       <div class="col-md-4 text-center text-dark">
@@ -271,7 +271,7 @@ ob_start();
 <!-- Pricing -->
 <div class="block-contained">
   <h2 style="text-align: center">
-    GALERIE PHOTOS
+   <b> GALERIE PHOTOS</b>
   </h2>
   <div class="row">
     <div class="col-md-3">
@@ -333,10 +333,10 @@ Usage: data-block-bg-img="IMAGE-URL" to apply a background image clearly via jQu
   <div class="block block-border-bottom">
     <!--Type elements-->
     <h3 style="text-align: center">
-      Temoignage
+      <b>Temoignage</b>
     </h3>
     <h4 style="margin-bottom: 20px;" class="">
-      Quotes
+     <b> Quotes</b>
     </h4>
     <blockquote>
       <p>Our productivity &amp; sales are up! Customers are happy &amp; we couldn't be happier with this product!</p>
@@ -352,7 +352,7 @@ Usage: data-block-bg-img="IMAGE-URL" to apply a background image clearly via jQu
   </div>
 </div>
 <!-- /content -->
-<h1 class="text-center">Retrouvez-nous <h1><br>
+<h1 class="text-center">Retrouvez-nous </h1><br>
     </h3>
     <div class="row">
       <div style="background-color: #741b47; padding: 20px" class="col-lg-12">

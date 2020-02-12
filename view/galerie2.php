@@ -31,8 +31,7 @@
                 <small>Accompagner les femmes </small>
               </h1>
           </div>
-          <div class="block block-border-bottom-grey block-pd-sm">
-            
+          <div class="block block-border-bottom-grey block-pd-sm"> 
             <img src="public/img/n3.JPG" alt="About us" class="img-responsive img-thumbnail pull-right m-l m-b">
             <p>Nigerielles a pour mission d’accompagner les femmes nigériennes, qu’elles soient porteuses de 
               projets ou déjà chefs d’entreprises, dans l’atteinte de leurs objectifs professionnels. 

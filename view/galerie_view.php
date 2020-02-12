@@ -20,8 +20,7 @@
     <div class="mission text-center block block-pd-sm block-bg-noise">
       <div class="container">
         <h2 class="text-shadow-white">
-        Créer un réseau de femmes entrepreneures, qui permettra l’échange de bonnes pratiques, d’expériences, et mutualiser les moyens et les compétences.
-          
+        Créer un réseau de femmes entrepreneures, qui permettra l’échange de bonnes pratiques, d’expériences, et mutualiser les moyens et les compétences. 
           </h2>
       </div>
     </div>
